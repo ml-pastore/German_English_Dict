@@ -1,0 +1,141 @@
+{
+  "nouns": [
+    {
+      "lang": "english",
+      "word": "bicycle",
+      "plural": [
+        "bicycles"
+      ],
+      "parts": [
+        "bi",
+        "cycle"
+      ],
+      "alts": [
+        "bike"
+      ],
+      "categ": [
+        "sport",
+        "transportation"
+      ]
+    },
+    {
+      "lang": "english",
+      "word": "bike",
+      "plural": [
+        "bikes"
+      ],
+      "alts": [
+        "bicycle"
+      ],
+      "categ": [
+        "sport",
+        "transportation"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Fahrrad",
+      "plural": [
+        "Fahrräder"
+      ],
+      "gend": "n",
+      "parts": [
+        "fahr(en)",
+        "Rad"
+      ],
+      "alts": [
+        "Zweirad",
+        "Drahtesel"
+      ],
+      "categ": [
+        "Sport",
+        "Verkehr"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Drahtesel",
+      "plural": [
+        "Drahtesel"
+      ],
+      "gend": "m",
+      "parts": [
+        "Draht",
+        "Esel"
+      ],
+      "alts": [
+        "Zweirad",
+        "Fahrrad"
+      ],
+      "categ": [
+        "Sport",
+        "Verkehr"
+      ]
+    },
+    {
+      "lang": "english",
+      "word": "motorcycle",
+      "plural": [
+        "motorcycle"
+      ],
+      "parts": [
+        "motor",
+        "cycle"
+      ],
+      "categ": [
+        "sport",
+        "transportation"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Motorrad",
+      "plural": [
+        "Motorräder"
+      ],
+      "gend": "n",
+      "parts": [
+        "Motor",
+        "Rad"
+      ],
+      "alts": [
+        "Krad",
+        "Kraftrad"
+      ],
+      "categ": [
+        "Sport",
+        "Verkehr"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Krad",
+      "plural": [
+        "Kräder"
+      ],
+      "gend": "n",
+      "alts": [
+        "Motorrad",
+        "Kraftrad"
+      ],
+      "categ": [
+        "Sport",
+        "Verkehr"
+      ]
+    }
+  ],
+  "noun_pairs": [
+    {
+      "flang": "english",
+      "tlang": "german",
+      "fmword": "bicycle",
+      "tword": "Fahrrad"
+    },
+    {
+      "flang": "english",
+      "tlang": "german",
+      "fmword": "mortorcycle",
+      "tword": "Motorrad"
+    }
+  ]
+}
