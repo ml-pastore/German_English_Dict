@@ -122,6 +122,57 @@
         "Sport",
         "Verkehr"
       ]
+    },
+    {
+      "lang": "english",
+      "word": "exercise",
+      "plural": [
+        "exercises"
+      ],
+      "alts": [
+        "training",
+        "calisthenics"
+      ],
+      "categ": [
+        "sport",
+        "health"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Bewegung",
+      "gend": "f",
+      "alts": [
+        "Turnen"
+      ],
+      "categ": [
+        "Sport",
+        "Gesundheit"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Bewegung",
+      "gend": "f",
+      "plural": [
+        "Bewegungen"
+      ],
+      "categ": [
+        "Politik",
+        "Sozial"
+      ]
+    },
+    {
+      "lang": "german",
+      "word": "Turnen",
+      "gend": "n",
+      "alts": [
+        "Bewegung"
+      ],
+      "categ": [
+        "Sport",
+        "Gesundheit"
+      ]
     }
   ],
   "noun_pairs": [
@@ -136,6 +187,26 @@
       "tlang": "german",
       "fmword": "mortorcycle",
       "tword": "Motorrad"
+    },
+    {
+      "flang": "english",
+      "tlang": "german",
+      "fmword": "exercise",
+      "tword": "Bewegung",
+      "categ": [
+        "Sport",
+        "Gesundheit"
+      ]
+    },
+    {
+      "flang": "english",
+      "tlang": "german",
+      "fmword": "movement",
+      "tword": "Bewegung",
+      "categ": [
+        "Politik",
+        "Sozial"
+      ]
     }
   ]
 }
