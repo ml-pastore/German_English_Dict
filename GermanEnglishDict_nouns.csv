@@ -1,5 +1,8 @@
 ﻿Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
 bicycle|bike,s|s,Fahrrad|Drahtesel,n|m,ä-er|-,"Fahr,Rad|Draht,Esel",,,Sport|Fitness|Health|Transportation
-motorcycle,s|s,Motorrad|Krad,n|m,ä-er|ä-er,"Motor,Rad",,,Sport|Transportation
 exercise|calisthenics|workout,s|pl|s,Bewegung|Fitness-Übung|Training,f|f|n,en|en|s,,,,Sport|Fitness|Health
+fool|half-wit|idiot,s|s|s,Narr|Tor|Närrin|Trottel,m|m|f|m,en|en|en|-,,,,Aptitude
+genius,es,Genie,n,s,,,,Aptitude
+intelligence|understanding|common sense,na|na|na,Intelligenz|Verstand|Menschenverstand,f|m|m,na|na|na,,,,Aptitude
+motorcycle,s|s,Motorrad|Krad,n|m,ä-er|ä-er,"Motor,Rad",,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
