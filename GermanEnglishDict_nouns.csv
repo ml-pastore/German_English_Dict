@@ -1,17 +1,29 @@
 ﻿Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
-bicycle|bike,s|s,Fahrrad|,n,ä-er,"Fahr,Rad",,,Sport|Fitness|Health|Transportation
-bike,s,Drahtesel,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
+bicycle,s,Fahrrad,n,ä-er,"Fahr,Rad",,,Sport|Fitness|Health|Transportation
+bike,s,Drahtese,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
+dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 fool,s,Narr,m,en,,,,Aptitude
 fool,s,Närrin,f,en,,,,Aptitude
 genius,es,Genie,n,s,,,,Aptitude
+gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
+gym teacher,s,Sportlehrerin,f,en,Sport|Lehrerin,,,Health|Fitness|Gym
 half-wit,s,Tor,m,en,,,,Aptitude
+headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
+heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
 idiot,s,Trottel,m,-,,,,Aptitude
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
+pulse,s,Puls,m,e,,,,Health|Fitness
+shower,s,Dusche,f,n,,,,Hygiene|Gym
+sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
+sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
+treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
+treadmill,s,Tretmühle,f,n,treten|Mühle,,,Health|Fitness|Gym
 understanding,sing,Verstand,m,sing,,,,Aptitude
 workout,s,Training,n,s,,,,Sport|Fitness|Health
+yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
