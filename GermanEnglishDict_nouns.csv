@@ -9,6 +9,7 @@ dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
+Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
 fool,s,Narr,m,en,,,,Aptitude
 fool,s,Närrin,f,en,,,,Aptitude
@@ -18,9 +19,11 @@ gym teacher,s,Sportlehrerin,f,en,Sport|Lehrerin,,,Health|Fitness|Gym
 half-wit,s,Tor,m,en,,,,Aptitude
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
 headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
+health,sing,Gesundheit,f,sing,gesund,,,Health
 heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
 idiot,s,Trottel,m,-,,,,Aptitude
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
+membership,s,Mitgliedschaft,en,en,Mitglied|schaffen,,,Social|Membership
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
