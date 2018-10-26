@@ -5,6 +5,7 @@ bike,s,Drahtese,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 chin-up,s,Klimmzug,m,ü-e,Klimme|Zug,,,Health|Fitness|Gym
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
+crew,s,Mannschaft,f,en,,,,Sport
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
@@ -12,10 +13,13 @@ fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
 fool,s,Narr,m,en,,,,Aptitude
-fool,s,Närrin,f,en,,,,Aptitude
+fool,s,Närrin,f,nen,,,,Aptitude
 genius,es,Genie,n,s,,,,Aptitude
+gym lesson,s,Turnstunde,f,n,turnen|Stunde,,,Health|Fitness|Gym
+gym shirt,s,Turnhemd,n,en,turnen|hemd,,,Health|Fitness|Gym|Sport
+gym shorts,pl,Turnhose,f,n,turnen|Hose,,,Health|Fitness|Gym|Sport
 gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
-gym teacher,s,Sportlehrerin,f,en,Sport|Lehrerin,,,Health|Fitness|Gym
+gym teacher,s,Sportlehrerin,f,nen,Sport|Lehrerin,,,Health|Fitness|Gym
 half-wit,s,Tor,m,en,,,,Aptitude
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
 headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
@@ -24,6 +28,9 @@ heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
 idiot,s,Trottel,m,-,,,,Aptitude
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
 membership,s,Mitgliedschaft,en,en,Mitglied|schaffen,,,Social|Membership
+membership contract,s,Mitgliedvertrag,m,ä-e,Mitglied|Vertrag,,,Social|Organization
+membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
+membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
@@ -36,7 +43,10 @@ shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
+squad,s,Mannschaft,f,en,,,,Sport
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
+team,s,Mannschaft,f,en,,,,Sport
+team,s,Team,n,s,,,,Sport|Organization
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
 towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
 treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
