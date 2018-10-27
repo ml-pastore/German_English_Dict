@@ -1,19 +1,43 @@
-﻿Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
+Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
+ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
+band-aid,s,Pflaster,n,-,,,,Medicine|Health
+bandage,s,Binde,f,n,,,,Medicine|Health
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 bicycle,s,Fahrrad,n,ä-er,"Fahr,Rad",,,Sport|Fitness|Health|Transportation
 bike,s,Drahtese,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
+blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
+cast,s,Gips,m,e,,,,Medicine|Health
+check-up,s,Untersuchung,f,en,unter|suchen,,,Medicine|Health
+check-up,s,Vorsorgeuntersuchung,f,en,vorsorgen|unter|suchen,,,Medicine|Health
 chin-up,s,Klimmzug,m,ü-e,Klimme|Zug,,,Health|Fitness|Gym
+cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
+clinic,s,Klinik,f,en,,,,Medicine|Health
+cold,s,Erkältung,f,en,Kälte,,,Medicine|Health
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
+consultation,s,Beratung,f,en,,,,Medicine|Health
+cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
 crew,s,Mannschaft,f,en,,,,Sport
+cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+dementia,sing,Demenz,f,en,,,,Medicine|Health
+dermatitis,sing,Hautentzündung,f,en,Haut|Entzündung ,,,Medicine|Health
+doctor,s,Arzt,m,ä-e,,,,Medicine|Health
+doctor,s,Ärztin,f,nen,,,,Medicine|Health
+doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
+eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
+emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
+examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
+flu,s,Grippe,f,n,,,,Medicine|Health
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
 fool,s,Narr,m,en,,,,Aptitude
 fool,s,Närrin,f,nen,,,,Aptitude
+fracture,s,Knochenbruch,m,ü-e,Knochen|Bruch,,,Medicine|Health
+front desk,s,Rezeption,f,en,,,,Medicine|Health|Office
 genius,es,Genie,n,s,,,,Aptitude
 gym lesson,s,Turnstunde,f,n,turnen|Stunde,,,Health|Fitness|Gym
 gym shirt,s,Turnhemd,n,en,turnen|hemd,,,Health|Fitness|Gym|Sport
@@ -24,9 +48,18 @@ half-wit,s,Tor,m,en,,,,Aptitude
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
 headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
 health,sing,Gesundheit,f,sing,gesund,,,Health
+heart attack,s,Herzinfarkt,m,e,Herz|Infarkt,,,Medicine|Health
 heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
+hospital,s,Krankenhaus,n,ä-er,Krankheit|Haus,,,Medicine|Health|Architecture
 idiot,s,Trottel,m,-,,,,Aptitude
+illness,es,Krankheit,f,en,,,,Medicine|Health
+inoculation,s,Impfung,f,en,,,,Medicine|Health
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
+laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+mammogram,s,Mammographie,f,n,,,,Medicine|Health
+medicine,s,Medizin,f,en,,,,Medicine|Health
+medicine,s,Arzneimittel,n,-,Arznei|Mittel,,,Medicine|Health
+medicine,s,Arznei,n,-,,,,Medicine|Health|Pharmacy
 membership,s,Mitgliedschaft,en,en,Mitglied|schaffen,,,Social|Membership
 membership contract,s,Mitgliedvertrag,m,ä-e,Mitglied|Vertrag,,,Social|Organization
 membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
@@ -34,16 +67,41 @@ membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
+nurse,s,Krankenschwester,f,n,Krankheit|Schwester,,,Medicine|Health|Profession
+nurse,s,Krankenspfleger,m,-,Krankheit|Pfleger,,,Medicine|Health|Profession
+ointment,s,Salbe,f,n,,,,Medicine|Health
+pathogen,s,Erreger,m,-,,,,Medicine|Health
+pathogen,s,Krankheitserreger,m,-,Krankheit|Erreger,,,Medicine|Health
+pathologist,s,Pathologe,m,n,,,,Medicine|Health|Profession
+pathologist,s,Pathologin,f,nen,,,,Medicine|Health|Profession
+pediatrician,s,Kinderarzt,m,ä-e,,,,Medicine|Health|Profession
+pediatrician,s,Kinderärztin,f,nen,,,,Medicine|Health|Profession
+pharmacy,pharmacies,Apotheke,f,n,,,,Medicine|Health
+prescription,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
+prescription,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 pulse,s,Puls,m,e,,,,Health|Fitness
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
+rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 sauna,s,Sauna,f,en|s,,,,Gym
+script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
+script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
+scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
+shot,s,Spritze,f,n,,,,Medicine|Health
 shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
+splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
+stent,s,Stent,m,s,,,,Medicine|Health
+stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
+stretcher,s,Trage,f,n,tragen,,,Medicine|Health
+stroke,s,Schlaganfall,m,Ä-e,Schlag|Anfall,,,Medicine|Health
+surgeon,s,Chirug,m,en,,,,Medicine|Health|Profession
+surgeon,s,Chirugin,f,nen,,,,Medicine|Health|Profession
+swab,s,Abstrich,m,e,Strich,,,Medicine|Health
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
@@ -51,6 +109,11 @@ towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
 towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
 treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
 treadmill,s,Tretmühle,f,n,treten|Mühle,,,Health|Fitness|Gym
+treatment,s,Behandlung,f,en,,,,Medicine|Health
 understanding,sing,Verstand,m,sing,,,,Aptitude
+waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
 workout,s,Training,n,s,,,,Sport|Fitness|Health
+wound,s,Wunde,f,n,,,,Medicine|Health
+X-ray,s,Röntgen,n,sing,,,,Medicine|Health
+X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
