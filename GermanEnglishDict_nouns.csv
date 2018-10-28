@@ -3,8 +3,8 @@ ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
-bicycle,s,Fahrrad,n,ä-er,"Fahr,Rad",,,Sport|Fitness|Health|Transportation
-bike,s,Drahtese,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
+bicycle,s,Fahrrad,n,ä-er,"Fahr|Rad",,,Sport|Fitness|Health|Transportation
+bike,s,Drahtesel,m,-,"Draht|Esel",,,Sport|Fitness|Health|Transportation
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
