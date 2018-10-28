@@ -1,11 +1,13 @@
 Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
 ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
-band-aid,s,Pflaster,n,-,,,,Medicine|Health
 bandage,s,Binde,f,n,,,,Medicine|Health
+band-aid,s,Pflaster,n,-,,,,Medicine|Health
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 bicycle,s,Fahrrad,n,ä-er,"Fahr,Rad",,,Sport|Fitness|Health|Transportation
 bike,s,Drahtese,m,-,"Draht,Esel",,,Sport|Fitness|Health|Transportation
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
+blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
+blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 cast,s,Gips,m,e,,,,Medicine|Health
 check-up,s,Untersuchung,f,en,unter|suchen,,,Medicine|Health
@@ -18,6 +20,7 @@ common sense,sing,Menschenverstand,m,sing,,,,Aptitude
 consultation,s,Beratung,f,en,,,,Medicine|Health
 cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
 crew,s,Mannschaft,f,en,,,,Sport
+crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
 dementia,sing,Demenz,f,en,,,,Medicine|Health
 dermatitis,sing,Hautentzündung,f,en,Haut|Entzündung ,,,Medicine|Health
@@ -28,6 +31,7 @@ dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
 examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
+examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|Equipment
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
@@ -83,7 +87,9 @@ pulse,s,Puls,m,e,,,,Health|Fitness
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
+rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sauna,s,Sauna,f,en|s,,,,Gym
+scale,s,Waage,f,n,,,,Medicine|Health|Equipment
 script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
@@ -110,8 +116,10 @@ towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
 treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
 treadmill,s,Tretmühle,f,n,treten|Mühle,,,Health|Fitness|Gym
 treatment,s,Behandlung,f,en,,,,Medicine|Health
+treatment table,s,Behandlungstisch,m,e,Behandlung|Tisch,,,Medicine|Health|Equipment
 understanding,sing,Verstand,m,sing,,,,Aptitude
 waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
+wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 workout,s,Training,n,s,,,,Sport|Fitness|Health
 wound,s,Wunde,f,n,,,,Medicine|Health
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
