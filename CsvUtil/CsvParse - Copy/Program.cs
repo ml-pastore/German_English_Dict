@@ -11,13 +11,18 @@ namespace CsvClean
     {
 
         public enum RetCodes {Success, InvalidParm, ConfigFileNotFound, CsvFileNotFound}
-     
+        public enum Args {ConfigFileName, CsvFolder}
         static string fileToProcess= "";
 
         static void Main(string[] args)
         {
             
-            string configName = "CsvParse.config";
+            if(args.Length !=2){
+                Console.WriteLine("arg[0]: name of config file");
+                Environment.Exit((int) RetCodes.InvalidParm);
+            }
+            
+            string configName = args[(int) Args.ConfigFileName];
             Console.WriteLine($"{configName}");
 
             if(! File.Exists(configName))
@@ -27,7 +32,8 @@ namespace CsvClean
             }
 
             IEnumerable<string> config = File.ReadAllLines(configName);
-        
+            string CsvFolder = args[(int) Args.CsvFolder];
+
             Dictionary<String, ParseFIle> cfKeys = GetParseFIleKeys();
 
             foreach(string cmdLn in config.Where(x => ! x.Trim().StartsWith(":")))
@@ -38,7 +44,7 @@ namespace CsvClean
                 string[] cmdParts = cmdLn.Split(":");
 
                 string cmd = cmdParts[0];
-                string fileToClean = cmdParts[1];
+                string fileToClean = cmdParts[1].Replace("[workspaceFolder]", CsvFolder);
 
                 if(! File.Exists(fileToClean))
                 {
