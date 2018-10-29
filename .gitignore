@@ -1,2 +1,4 @@
-\bin
-\obj
+CsvUtil/CsvClean/bin
+CsvUtil/CsvClean/obj
+CsvUtil/CsvParse/bin
+CsvUtil/CsvParse/obj

@@ -13,7 +13,6 @@ namespace CsvClean
         public enum RetCodes {Success, InvalidParm, ConfigFileNotFound, CsvFileNotFound}
         public enum Args {ConfigFileName, CsvFolder}
         static string fileToProcess= "";
-        
 
         static void Main(string[] args)
         {
@@ -22,7 +21,7 @@ namespace CsvClean
                 Console.WriteLine("arg[0]: name of config file");
                 Environment.Exit((int) RetCodes.InvalidParm);
             }
-        
+            
             string configName = args[(int) Args.ConfigFileName];
             Console.WriteLine($"{configName}");
 
@@ -37,7 +36,7 @@ namespace CsvClean
 
             Dictionary<String, CleanFile> cfKeys = GetCleanFileKeys();
 
-            foreach(string cmdLn in config.Where(x => ! x.Trim().StartsWith("::")))
+            foreach(string cmdLn in config.Where(x => ! x.Trim().StartsWith(":")))
             {
 
                 Console.WriteLine($"{cmdLn}");
@@ -50,7 +49,7 @@ namespace CsvClean
                 if(! File.Exists(fileToClean))
                 {
                     Console.WriteLine($"File does not exist: {fileToClean}");
-                    continue;
+                    Environment.Exit((int) RetCodes.CsvFileNotFound);
                 }
 
                 CleanFile cf;
