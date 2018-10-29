@@ -1,15 +1,23 @@
 Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
+abscess,es,Eiterbeule,f,n,Eiter|Beule ,,,Medicine|Health|Disease|Dentistry
+acne,sing,Akne,f,n,,,,Medicine|Health|Disease
+acne,sing,Gesichtspickel ,m,-,Gesicht|Pickel ,,,Medicine|Health|Disease
+addiction,s,Sucht,f,ü-e,,,,Medicine|Health|Disease
 ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
+backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 bicycle,s,Fahrrad,n,ä-er,Fahr|Rad,,,Sport|Fitness|Health|Transportation
 bike,s,Drahtesel,m,-,Draht|Esel,,,Sport|Fitness|Health|Transportation
+blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
+cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 cast,s,Gips,m,e,,,,Medicine|Health
+cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
 check-up,s,Untersuchung,f,en,unter|suchen,,,Medicine|Health
 check-up,s,Vorsorgeuntersuchung,f,en,vorsorgen|unter|suchen,,,Medicine|Health
 chin-up,s,Klimmzug,m,ü-e,Klimme|Zug,,,Health|Fitness|Gym
@@ -17,23 +25,30 @@ cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
+congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
 consultation,s,Beratung,f,en,,,,Medicine|Health
 cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
 crew,s,Mannschaft,f,en,,,,Sport
+crown,s,Krone,f,n,,,,Medicine|Health|Disease|Dentistry
 crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
 dementia,sing,Demenz,f,en,,,,Medicine|Health
+depression,s,Depression,f,n,,,,Medicine|Health|Disease
 dermatitis,sing,Hautentzündung,f,en,Haut|Entzündung ,,,Medicine|Health|Disease
+diarrhea,sing,Durchfall,m,sing,durch|fallen ,,,Medicine|Health|Disease
 doctor,s,Arzt,m,ä-e,,,,Medicine|Health
 doctor,s,Ärztin,f,nen,,,,Medicine|Health
 doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
+earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
 eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
 examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
 examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|Equipment
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
+filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 flu,s,Grippe,f,n,,,,Medicine|Health|Disease
@@ -50,16 +65,25 @@ gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
 gym teacher,s,Sportlehrerin,f,nen,Sport|Lehrerin,,,Health|Fitness|Gym
 half-wit,s,Tor,m,en,,,,Aptitude
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
+headache,s,Kopfschmerz,m,en,Kopf|Schmerz,,,Medicine|Health|Disease
+headache,s,Kopfweh,m,sing,Kopf|weh,,,Medicine|Health|Disease
 headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
 health,sing,Gesundheit,f,sing,gesund,,,Health
 heart attack,s,Herzinfarkt,m,e,Herz|Infarkt,,,Medicine|Health|Disease
 heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
+hemorrhage,s,Blutung,f,en,,,,Medicine|Health|Disease
+hemorrhoid,s,Hämorrhoide,f,n,,,,Medicine|Health|Disease
 hospital,s,Krankenhaus,n,ä-er,Krankheit|Haus,,,Medicine|Health|Architecture
 idiot,s,Trottel,m,-,,,,Aptitude
 illness,es,Krankheit,f,en,,,,Medicine|Health
+incontinence,sing,Inkontinenz,f,sing,,,,Medicine|Health|Disease
+indigestion,sing,Magenverstimmung,f,sing,Magen|Verstimmung,,,Medicine|Health|Disease
+infertility,sing,Unfruchtbarkeit,f,sing,fruchtbar,,,Medicine|Health|Disease
 inoculation,s,Impfung,f,en,,,,Medicine|Health
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
+kidney disease,s,Nierenerkrankung,f,en,Niere|Erkrankung,,,Medicine|Health|Disease
 laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
 mammogram,s,Mammographie,f,n,,,,Medicine|Health
 medicine,s,Medizin,f,en,,,,Medicine|Health
 medicine,s,Arzneimittel,n,-,Arznei|Mittel,,,Medicine|Health
@@ -90,6 +114,7 @@ rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sauna,s,Sauna,f,en|s,,,,Gym
 scale,s,Waage,f,n,,,,Medicine|Health|Equipment
+schizophrenia,s,Schizophrenie,f,n,,,,Medicine|Health|Disease
 script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
@@ -103,6 +128,7 @@ splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
 stent,s,Stent,m,s,,,,Medicine|Health
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
+stomacache,sing,Bauchschmerz,m,sing,Bauch|Schmerz,,,Medicine|Health|Disease
 stretcher,s,Trage,f,n,tragen,,,Medicine|Health
 stroke,s,Schlaganfall,m,Ä-e,Schlag|Anfall,,,Medicine|Health|Disease
 surgeon,s,Chirug,m,en,,,,Medicine|Health|Profession
@@ -111,37 +137,21 @@ swab,s,Abstrich,m,e,Strich,,,Medicine|Health
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
+toothache,sing,Zahnschmerz,m,en,Zahn|Shmerz,,,Medicine|Health|Disease
+toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
 towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
 treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
 treadmill,s,Tretmühle,f,n,treten|Mühle,,,Health|Fitness|Gym
 treatment,s,Behandlung,f,en,,,,Medicine|Health
 treatment table,s,Behandlungstisch,m,e,Behandlung|Tisch,,,Medicine|Health|Equipment
+tumor,s,Tumor,m,s|en,,,,Medicine|Health|Disease
 understanding,sing,Verstand,m,sing,,,,Aptitude
 waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
+wart,s,Warze,f,n,,,,Medicine|Health|Disease
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 workout,s,Training,n,s,,,,Sport|Fitness|Health
 wound,s,Wunde,f,n,,,,Medicine|Health
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
 X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
-schizophrenia,s,Schizophrenie,f,n,,,,Medicine|Health|Disease
-depression,s,Depression,f,n,,,,Medicine|Health|Disease
-tumor,s,Tumor,m,s|en,,,,Medicine|Health|Disease
-cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
-addiction,s,Sucht,f,ü-e,,,,Medicine|Health|Disease
-blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
-deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
-congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
-wart,s,Warze,f,n,,,,Medicine|Health|Disease
-acne,sing,Akne,f,n,,,,Medicine|Health|Disease
-acne,sing,Gesichtspickel ,m,-,Gesicht|Pickel ,,,Medicine|Health|Disease
-toothache,sing,Zahnschmerz,m,en,Zahn|Shmerz,,,Medicine|Health|Disease
-toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
-cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
-filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
-abscess,es,Eiterbeule,f,n,Eiter|Beule ,,,Medicine|Health|Disease|Dentistry
-crown,s,Krone,f,n,,,,Medicine|Health|Disease|Dentistry
-earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
-headache,s,Kopfschmerz,m,en,Kopf|Schmerz,,,Medicine|Health|Disease
-headache,s,Kopfweh,m,sing,Kopf|weh,,,Medicine|Health|Disease
