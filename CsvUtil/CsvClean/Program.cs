@@ -4,7 +4,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-
 namespace CsvClean
 {
     class Program
@@ -52,9 +51,13 @@ namespace CsvClean
                     continue;
                 }
 
-                cf.fileName = fileToClean;
-                cf.CleanTheFile();
-            
+                using(ILogger lg = new Logger())
+                {
+                    lg.LogFile = "_log/runLog.txt";
+                    cf.ILog = lg;
+                    cf.fileName = fileToClean;
+                    cf.CleanTheFile();
+                }
             }
 
             Environment.Exit((int) RetCodes.Success);
