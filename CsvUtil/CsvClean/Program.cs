@@ -61,6 +61,7 @@ namespace CsvClean
                     cf.FileName = fileToClean;
                     cf.CleanTheFile();
                     
+
                     lg.Write("Done");
                     
                 }

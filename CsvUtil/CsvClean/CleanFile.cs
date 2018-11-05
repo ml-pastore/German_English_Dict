@@ -9,27 +9,85 @@ public class CleanFile
 	private bool _disposed = false;
 	public string FileName {set; get;}
 	public ILogger ILog {set; get;}
-	
-	//^[^<>]*$
-	private Regex _goodChars = new Regex(@"^[a-zA-Z0-9äöüÄÖÜßß|' ,-_]+$");
+	private string _validChars = "";
 
+	public string ValidChars{
+		set{
+			_validChars = value;
+			 _goodChars = new Regex($"^[{_validChars}]+$"); // default
+
+		}
+		get{
+			return _validChars;
+		}
+
+	}
+	
+	private Regex _goodChars;
+
+	public CleanFile()
+	{
+		ValidChars = "a-zA-Z0-9äöüÄÖÜßß|' ,-_\"";
+	}
 	public virtual void CleanTheFile(){;}
 
+	public bool LineIsValid(string ln)
+	{
+
+		return _goodChars.IsMatch(ln, 0);
+		throw new NotImplementedException("Not implemented!");
+
+	}
+
+	private string _fileEncode = "iso-8859-1";
 	public void CleanChars()
 	{
 
 		ILog.Write($"Cleaning characters");
+		ILog.Write($"Input: {FileName}");
 		ILog.Write($"Valid: {_goodChars}");
 		
-		string[] lns = File.ReadAllLines(FileName, Encoding.GetEncoding("iso-8859-1"));
+		string[] lns = File.ReadAllLines(FileName, Encoding.GetEncoding(_fileEncode));
 
-		string[] badLns = lns
-			.Select(x => x.Replace("\"",""))
-			.Where(ln => ! _goodChars.IsMatch(ln, 0)).ToArray();
-			
-		Console.WriteLine(badLns.Count());
+	
+		int lnCtr = 0;
+		int numInvalid = 0;
+		foreach(string ln in lns)
+		{
 
-	}
+			if(! LineIsValid(ln))
+			{
+				numInvalid++;
+
+				foreach(char c in ln.ToCharArray())
+				{
+					if(! LineIsValid(c.ToString()))
+					{
+						lns[lnCtr] = lns[lnCtr].Replace(c.ToString(),"");
+					}
+
+				}
+				
+				ILog.Write($"Ln: {lnCtr.ToString()}");
+				ILog.Write($"Orig: {ln.ToString()}");
+				ILog.Write($"New: {lns[lnCtr].ToString()}");
+
+			}	
+
+			lnCtr++;
+		} // each line
+
+		if(numInvalid > 0)
+		{
+			string outFile = Path.GetFileName(FileName);
+			outFile = $"_out\\{outFile}";
+			ILog.Write($"Output: {outFile}");
+			File.WriteAllLines(outFile, lns, Encoding.GetEncoding(_fileEncode));
+		}
+		else
+			ILog.Write($"All lines valid!");
+
+	} // CleanChars()
 
 }
 
@@ -40,11 +98,7 @@ public class CleanFileNoun : CleanFile
 		Console.WriteLine($"Cleaning Noun file: {FileName}");
 		ILog.Write($"Cleaning Noun file: {FileName}");
 		ILog.Write($"Commencing...");
-
-
-
 		base.CleanChars();
-
 	;}
 
 
@@ -54,6 +108,8 @@ public class CleanFileAdj : CleanFile
 {
 	public override void CleanTheFile()
 	{
+		
+		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Cleaning Adj file: {FileName}");
 	;}	
 	
@@ -62,6 +118,7 @@ public class CleanFileAdv : CleanFile
 {
 	public override void CleanTheFile()
 	{
+		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Cleaning Adv file: {FileName}");
 	;}	
 }
@@ -69,6 +126,7 @@ public class CleanFileVerb : CleanFile
 {
 	public override void CleanTheFile()
 	{
+		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Cleaning Verb file: {FileName}");
 	;}	
 }

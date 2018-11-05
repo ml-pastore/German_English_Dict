@@ -1,8 +1,12 @@
 CsvUtil/CsvClean/bin
 CsvUtil/CsvClean/obj
 CsvUtil/CsvClean/_log
+CsvUtil/CsvClean/_out
+CsvUtil/CsvClean.Tests/bin
+CsvUtil/CsvClean.Tests/obj
 CsvUtil/CsvParse/bin
 CsvUtil/CsvParse/obj
 CsvUtil/Util/bin
 CsvUtil/Util/obj
 CsvUtil/CsvClean/CsvClean.config
+CsvUtil/Test/obj
