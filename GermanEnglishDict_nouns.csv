@@ -1,9 +1,11 @@
 Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories
-abscess,es,Eiterbeule,f,n,Eiter|Beule ,,,Medicine|Health|Disease|Dentistry
+abscess,es,Eiterbeule,f,n,Eiter|Beule ,,,Medicine|Health|Disease
+abscess,es,Abzess,m,e,,,,Medicine|Health|Disease
 acne,sing,Akne,f,n,,,,Medicine|Health|Disease
 acne,sing,Gesichtspickel ,m,-,Gesicht|Pickel ,,,Medicine|Health|Disease
 addiction,s,Sucht,f,ü-e,,,,Medicine|Health|Disease
 ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
+aneurysm,s,Aneurysma,n,Aneurysmen,,,,Medicine|Health|Disease
 backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
@@ -14,10 +16,12 @@ blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
+bowel,s,Darm,m,ä-e,,,,Medicine|Health|Anatomy
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 cast,s,Gips,m,e,,,,Medicine|Health
 cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
+cerebral aneurysm,s,Gehirnaneurysma,n,Gehirnaneurysmen,Gehirn|Aneurysma,,,Medicine|Health|Disease
 check-up,s,Untersuchung,f,en,unter|suchen,,,Medicine|Health
 check-up,s,Vorsorgeuntersuchung,f,en,vorsorgen|unter|suchen,,,Medicine|Health
 chin-up,s,Klimmzug,m,ü-e,Klimme|Zug,,,Health|Fitness|Gym
@@ -26,6 +30,8 @@ clinic,s,Klinik,f,en,,,,Medicine|Health
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
 congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
+constipation,sing,Konstipation,f,sing,,,,Medicine|Health|Disease
+constipation,sing,Darmträgheit,f,sing,Darm|Trägheit,,,Medicine|Health|Disease
 consultation,s,Beratung,f,en,,,,Medicine|Health
 cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
 crew,s,Mannschaft,f,en,,,,Sport
@@ -110,6 +116,7 @@ prescription,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 pulse,s,Puls,m,e,,,,Health|Fitness
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
+retina,s,Netzhaut,f,ä-e,Netz|Haut,,,Medicine|Health|Anatomy
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sauna,s,Sauna,f,en|s,,,,Gym
@@ -124,20 +131,21 @@ shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
+sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
 splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
 stent,s,Stent,m,s,,,,Medicine|Health
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
 stomacache,sing,Bauchschmerz,m,sing,Bauch|Schmerz,,,Medicine|Health|Disease
 stretcher,s,Trage,f,n,tragen,,,Medicine|Health
-stroke,s,Schlaganfall,m,Ä-e,Schlag|Anfall,,,Medicine|Health|Disease
+stroke,s,Schlaganfall,m,ä-e,Schlag|Anfall,,,Medicine|Health|Disease
 surgeon,s,Chirug,m,en,,,,Medicine|Health|Profession
 surgeon,s,Chirugin,f,nen,,,,Medicine|Health|Profession
 swab,s,Abstrich,m,e,Strich,,,Medicine|Health
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
-toothache,sing,Zahnschmerz,m,en,Zahn|Shmerz,,,Medicine|Health|Disease
+toothache,sing,Zahnschmerz,m,en,Zahn|Schmerz,,,Medicine|Health|Disease
 toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
 towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
