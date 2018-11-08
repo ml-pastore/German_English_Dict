@@ -5,6 +5,7 @@ acne,sing,Akne,f,n,,,,Medicine|Health|Disease
 acne,sing,Gesichtspickel ,m,-,Gesicht|Pickel ,,,Medicine|Health|Disease
 addiction,s,Sucht,f,ü-e,,,,Medicine|Health|Disease
 ambulance,s,Krankenwagen,m,-,Krankheit|Wagen,,,Medicine|Health|Vehicle
+amnesia,sing,Amnesie,f,n,,,,Medicine|Health|Psychology
 aneurysm,s,Aneurysma,n,Aneurysmen,,,,Medicine|Health|Disease
 backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 bandage,s,Binde,f,n,,,,Medicine|Health
@@ -17,6 +18,7 @@ blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
 bowel,s,Darm,m,ä-e,,,,Medicine|Health|Anatomy
+bruise,s,Prellung,f,en,,,,Medicine|Health|Injury
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 cast,s,Gips,m,e,,,,Medicine|Health
@@ -29,6 +31,7 @@ cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
+concussion,s,Gehirnerschütterung,f,en,Gehirn|Erschütterung,,,Medicine|Health|Injury
 congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
 constipation,sing,Konstipation,f,sing,,,,Medicine|Health|Disease
 constipation,sing,Darmträgheit,f,sing,Darm|Trägheit,,,Medicine|Health|Disease
@@ -40,7 +43,7 @@ crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
 deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
 dementia,sing,Demenz,f,en,,,,Medicine|Health
-depression,s,Depression,f,n,,,,Medicine|Health|Disease
+depression,s,Depression,f,n,,,,Medicine|Health|Disease|Psychology
 dermatitis,sing,Hautentzündung,f,en,Haut|Entzündung ,,,Medicine|Health|Disease
 diarrhea,sing,Durchfall,m,sing,durch|fallen ,,,Medicine|Health|Disease
 doctor,s,Arzt,m,ä-e,,,,Medicine|Health
@@ -49,6 +52,8 @@ doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
 eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
+ego,s,Ich,n,s|-,,,,Medicine|Health|Psychology
+ego,s,Ego,n,s,,,,Medicine|Health|Psychology
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
 examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
 examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|Equipment
@@ -70,6 +75,7 @@ gym shorts,pl,Turnhose,f,n,turnen|Hose,,,Health|Fitness|Gym|Sport
 gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
 gym teacher,s,Sportlehrerin,f,nen,Sport|Lehrerin,,,Health|Fitness|Gym
 half-wit,s,Tor,m,en,,,,Aptitude
+hallucination,s,Halluzination,f,n,,,,Medicine|Health|Psychology
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
 headache,s,Kopfschmerz,m,en,Kopf|Schmerz,,,Medicine|Health|Disease
 headache,s,Kopfweh,m,sing,Kopf|weh,,,Medicine|Health|Disease
@@ -85,15 +91,19 @@ illness,es,Krankheit,f,en,,,,Medicine|Health
 incontinence,sing,Inkontinenz,f,sing,,,,Medicine|Health|Disease
 indigestion,sing,Magenverstimmung,f,sing,Magen|Verstimmung,,,Medicine|Health|Disease
 infertility,sing,Unfruchtbarkeit,f,sing,fruchtbar,,,Medicine|Health|Disease
+injury,injuries,Verletzung,f,en,,,,Medicine|Health|Injury
 inoculation,s,Impfung,f,en,,,,Medicine|Health
+insecurity,insecurities,Ungewissheit,f,en,gewiss,,,Medicine|Health|Psychology
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
 kidney disease,s,Nierenerkrankung,f,en,Niere|Erkrankung,,,Medicine|Health|Disease
-laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
 laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
 mammogram,s,Mammographie,f,n,,,,Medicine|Health
 medicine,s,Medizin,f,en,,,,Medicine|Health
 medicine,s,Arzneimittel,n,-,Arznei|Mittel,,,Medicine|Health
 medicine,s,Arznei,n,-,,,,Medicine|Health|Pharmacy
+megalomania,sing,Cäsarenwahn,m,sing,Cäsar|Wahn ,,,Medicine|Health|Psychology
+megalomania,sing,Großmannssucht,f,sing,Groß|Manns|Sucht,,,Medicine|Health|Psychology
 membership,s,Mitgliedschaft,en,en,Mitglied|schaffen,,,Social|Membership
 membership contract,s,Mitgliedvertrag,m,ä-e,Mitglied|Vertrag,,,Social|Organization
 membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
@@ -101,6 +111,8 @@ membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
 movement,s,Bewegung,f,en,,,,Political|Social
+nervous breakdown,s,Nervenzusammenbruch,m,ü-e,Nerven|zusammen|Bruch,,,Medicine|Health|Psychology
+neurosis,neuroses,Neurose,f,n,,,,Medicine|Health|Psychology
 nurse,s,Krankenschwester,f,n,Krankheit|Schwester,,,Medicine|Health|Profession
 nurse,s,Krankenspfleger,m,-,Krankheit|Pfleger,,,Medicine|Health|Profession
 ointment,s,Salbe,f,n,,,,Medicine|Health
@@ -121,10 +133,11 @@ rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sauna,s,Sauna,f,en|s,,,,Gym
 scale,s,Waage,f,n,,,,Medicine|Health|Equipment
-schizophrenia,s,Schizophrenie,f,n,,,,Medicine|Health|Disease
+schizophrenia,s,Schizophrenie,f,n,,,,Medicine|Health|Disease|Psychology
 script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
+self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|Health|Psychology
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
 shot,s,Spritze,f,n,,,,Medicine|Health
 shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
