@@ -12,21 +12,29 @@ aneurysm,s,Aneurysma,n,Aneurysmen,,,,Medicine|Health|Disease
 anger,sing,Wut,f,sing,,,,Psychology|Emotion|Trait
 anger,sing,Ärger,m,sing,,,,Psychology|Emotion|Trait
 anger,sing,Zorn,m,sing,,,,Psychology|Emotion|Trait
+ankle,s,Fußknöchel,m,-,Fuß|Knöchel,,,Anatomy
+anus,es,Anus,m,Ani,,,,Anatomy
 anxiety,anxieties,Angst,f,ä-e,,,,Health|Psychology|Emotion|Trait
 aphasia,sing,Aphasie,f,sing,,,,Medicine|Health|Psychology
+arm,s,Arm,m,e,,,,Anatomy
 backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 behavior,s,Verhalten,n,-,,,,Psychology|Trait|Sociology
+bicep,s,Bizeps,m,e,,,,Anatomy
 bicycle,s,Fahrrad,n,ä-er,Fahr|Rad,,,Sport|Fitness|Health|Transportation
 bike,s,Drahtesel,m,-,Draht|Esel,,,Sport|Fitness|Health|Transportation
 blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
+bottom,s,Gesäß,n,e,,,,Anatomy
 bowel,s,Darm,m,ä-e,,,,Medicine|Health|Anatomy
+brain,s,Gehirn,n,e,,,,Anatomy
 bruise,s,Prellung,f,en,,,,Medicine|Health|Injury
+buttock,s,Gesäßhälfte,f,n,Gesäß|Hälfte,,,Anatomy
+calf,calves,Wade,f,n,,,,Anatomy
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 cast,s,Gips,m,e,,,,Medicine|Health
@@ -35,12 +43,19 @@ cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
 cerebral aneurysm,s,Gehirnaneurysma,n,Gehirnaneurysmen,Gehirn|Aneurysma,,,Medicine|Health|Disease
 check-up,s,Untersuchung,f,en,unter|suchen,,,Medicine|Health
 check-up,s,Vorsorgeuntersuchung,f,en,vorsorgen|unter|suchen,,,Medicine|Health
+cheek,s,Wange,f,n,,,,Anatomy
+cheekbone,s,Backenknochen,m,-,Backen|Knochen,,,Anatomy
+cheekbone,s,Wangenknochen,m,-,Wange|Knochen,,,Anatomy
+chest,s,Brust,f,ü-e,,,,Anatomy
+chin,s,Kinn,n,e,,,,Anatomy
 chin-up,s,Klimmzug,m,ü-e,Klimme|Zug,,,Health|Fitness|Gym
 cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
+clitoris,es,Kitzler,m,-,,,,
 cognition,sing,Erkenntnisvermögen,n,sing,Erkenntnis|Vermögen,,,Medicine|Health|Psychology|Aptitude
 cognition,sing,Erkenntnis,n,sing,,,,Medicine|Health|Psychology|Aptitude
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
+collarbone,s,Schlüsselbein,n,e,Schlüssel|Bein,,,Anatomy
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
 concussion,s,Gehirnerschütterung,f,en,Gehirn|Erschütterung,,,Medicine|Health|Injury
 congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
@@ -53,6 +68,7 @@ crown,s,Krone,f,n,,,,Medicine|Health|Disease|Dentistry
 crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
 deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
+deltoid,s,Deltamuskel,m,n,Delta|Muskel,,,Anatomy
 delusion,s,Beeinflussungswahn,m,sing,Beeinflussung|Wahn,,,Medicine|Health|Psychology
 delusion,s,Wahn,m,sing,,,,Medicine|Health|Psychology
 dementia,sing,Demenz,f,en,,,,Medicine|Health
@@ -64,43 +80,60 @@ doctor,s,Ärztin,f,nen,,,,Medicine|Health
 doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
 double blind,sing,Doublebind,n,sing,Double|blind,,,Medicine|Psychology|Math|Statistics|Science
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
+ear,s,Ohr,n,en,,,,Anatomy
 earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
 eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 ego,s,Ich,n,s|-,,,,Psychology|Trait
 ego,s,Ego,n,s,,,,Psychology|Trait
+elbow,s,Ellbogen,m,-,,,,Anatomy
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
 examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
 examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|Equipment
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
+eye,s,Auge,n,n,,,,Anatomy
+eyebrow,s,Augenbraue,f,n,Auge,,,Anatomy
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
+finger,s,Finger,m,-,,,,Anatomy
+fingernail,s,Fingernagel,m,ä,Finger|Nagel,,,Anatomy
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 flu,s,Grippe,f,n,,,,Medicine|Health|Disease
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
 fool,s,Narr,m,en,,,,Aptitude
 fool,s,Närrin,f,nen,,,,Aptitude
+foot,feet,Fuß,m,ü-e,,,,Anatomy
+forearm,s,Unterarm,m,e,unter|Arm,,,Anatomy
+forehead,s,Stirn,f,en,,,,Anatomy
 fracture,s,Knochenbruch,m,ü-e,Knochen|Bruch,,,Medicine|Health
 front desk,s,Rezeption,f,en,,,,Medicine|Health|Office
 frustration,sing,Frust,m,sing,,,,Psychology|Emotion
+funny bone,s,Narrenbein,n,e,Narr|Bein,,,Anatomy
 genius,es,Genie,n,s,,,,Aptitude
 gym lesson,s,Turnstunde,f,n,turnen|Stunde,,,Health|Fitness|Gym
 gym shirt,s,Turnhemd,n,en,turnen|hemd,,,Health|Fitness|Gym|Sport
 gym shorts,pl,Turnhose,f,n,turnen|Hose,,,Health|Fitness|Gym|Sport
 gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
 gym teacher,s,Sportlehrerin,f,nen,Sport|Lehrerin,,,Health|Fitness|Gym
+hair,s,Haar,n,e,,,,Anatomy
 half-wit,s,Tor,m,en,,,,Aptitude
 hallucination,s,Halluzination,f,n,,,,Medicine|Health|Psychology
+hamstring,s,Kniesehne,f,n,Knie|Sehne,,,Anatomy
+hand,s,Hand,f,ä-e,,,,Anatomy
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
+head,s,Kopf,m,ö-e,,,,Anatomy
 headache,s,Kopfschmerz,m,en,Kopf|Schmerz,,,Medicine|Health|Disease
 headache,s,Kopfweh,m,sing,Kopf|weh,,,Medicine|Health|Disease
 headband,s,Stirnband,n,ä-er,Stirn|Band,,,Health|Fitness|Gym
 health,sing,Gesundheit,f,sing,gesund,,,Health
+heart,s,Herz,n,en,,,,Anatomy
 heart attack,s,Herzinfarkt,m,e,Herz|Infarkt,,,Medicine|Health|Disease
 heart rate,s,Herzfrequenz,f,en,Herz|Frequenz,,,Health|Fitness
+heel,s,Fersenbein,n,e,Fersen|Bein,,,Anatomy
 hemorrhage,s,Blutung,f,en,,,,Medicine|Health|Disease
 hemorrhoid,s,Hämorrhoide,f,n,,,,Medicine|Health|Disease
 heuristic,s,Heuristik,f,sing,,,,Psychology|Pedagogy
+hip,s,Hüfte,f,n,,,,Anatomy
 hospital,s,Krankenhaus,n,ä-er,Krankheit|Haus,,,Medicine|Health|Architecture
 hypothesis,hypotheses,Hypothese,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 idiot,s,Trottel,m,-,,,,Aptitude
@@ -113,12 +146,18 @@ injury,injuries,Verletzung,f,en,,,,Medicine|Health|Injury
 inoculation,s,Impfung,f,en,,,,Medicine|Health
 insecurity,insecurities,Ungewissheit,f,en,gewiss,,,Medicine|Health|Psychology
 intelligence,sing,Intelligenz,f,sing,,,,Aptitude
+intestine,s,Darm,m,ä-e,,,,Anatomy
 joy,sing,Freude,f,sing,,,,Psychology|Emotion|Trait
 joy,sing,Glück,n,sing,,,,Psychology|Emotion|Trait
+kidney,s,Niere,f,n,,,,Anatomy
 kidney disease,s,Nierenerkrankung,f,en,Niere|Erkrankung,,,Medicine|Health|Disease
+knee,s,Knie,n,-,,,,Anatomy
 laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
 laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
+lip,s,Lippe,f,n,,,,Anatomy
+liver,s,Leber,f,n,,,,Anatomy
 lobotomy,lobotomies,Lobotomie,f,n,,,,Medicine|Health|Psychology
+lung,s,Lunge,f,n,,,,Anatomy
 mammogram,s,Mammographie,f,n,,,,Medicine|Health
 mania,sing,Wahnsinn,m,sing,Wahn|Sinn,,,Medicine|Health|Psychology|Sociology
 mean,s,Durchschnitt,m,e,durch|schnitten,,,Medicine|Psychology|Math|Statistics|Science
@@ -135,12 +174,16 @@ membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
 motorcycle,s,Krad,m,ä-er,,,,Sport|Transportation
+mouth,s,Mund,m,ü-er,,,,Anatomy
 movement,s,Bewegung,f,en,,,,Political|Social
+muscle,s,Muskel,m,n,,,,Anatomy
 nervous breakdown,s,Nervenzusammenbruch,m,ü-e,Nerven|zusammen|Bruch,,,Medicine|Health|Psychology
 neurosis,neuroses,Neurose,f,n,,,,Medicine|Health|Psychology
+nipple,s,Brustwarze,f,n,Brust|Warze,,,Anatomy
 nurse,s,Krankenschwester,f,n,Krankheit|Schwester,,,Medicine|Health|Profession
 nurse,s,Krankenspfleger,m,-,Krankheit|Pfleger,,,Medicine|Health|Profession
 ointment,s,Salbe,f,n,,,,Medicine|Health
+pancreas,es,Pankreas,n,sing,,,,Anatomy
 parsimony,sing,Sparsamkeit,f,sing,sparsam,,,Psychology|Trait
 parsimony,sing,Geiz,m,sing,,,,Psychology|Trait
 pathogen,s,Erreger,m,-,,,,Medicine|Health
@@ -150,16 +193,21 @@ pathologist,s,Pathologin,f,nen,,,,Medicine|Health|Profession
 pathology,pathologies,Pathologie,f,n,,,,Medicine|Health|Psychology
 pediatrician,s,Kinderarzt,m,ä-e,,,,Medicine|Health|Profession
 pediatrician,s,Kinderärztin,f,nen,,,,Medicine|Health|Profession
+penis,es,Penis,m,Penes,,,,Anatomy
 pharmacy,pharmacies,Apotheke,f,n,,,,Medicine|Health
 phobia,s,Phobie,f,n,,,,Medicine|Health|Psychology
 placebo,es,Placebo,n,s,,,,Medicine|Psychology|Math|Statistics|Science
 prescription,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 prescription,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 psychology,sing,Psychologie,f,sing,,,,Medicine|Health|Psychology
+pubic hair,s,Schamhaar,n,sing,Scham|Haar,,,Anatomy
 pulse,s,Puls,m,e,,,,Health|Fitness
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
+quadricep,s,Quadrizeps,m,-,,,,Anatomy
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 retina,s,Netzhaut,f,ä-e,Netz|Haut,,,Medicine|Health|Anatomy
+rib,s,Rippe,f,n,,,,Anatomy
+ribcage,s,Brustkorb,m,ö-e,Brust|Korb,,,Anatomy
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sadness,sing,Traurigkeit,f,sing,traurig,,,Psychology|Emotion|Trait
@@ -174,19 +222,24 @@ scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
 self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|Health|Psychology
 self-esteem,sing,Selbstwertgefühl,n,sing,selbst|Wert|Gefühl,,,Psychology|Trait
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
+shinbone,s,Schienbein,n,e,Schien|Bein,,,Anatomy
 shot,s,Spritze,f,n,,,,Medicine|Health
+shoulder,s,Schulter,f,n,,,,Anatomy
 shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
+spleen,s,Milz,f,en,,,,Anatomy
 splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
 standard deviations,s,Normalabweichung,f,en,Normal|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
 standard deviations,s,Standardabweichung ,f,en,Standard|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
 stent,s,Stent,m,s,,,,Medicine|Health
+sternum,s,Brustbein,n,e,Brust|Bein,,,Anatomy
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
 stomacache,sing,Bauchschmerz,m,sing,Bauch|Schmerz,,,Medicine|Health|Disease
+stomach,s,Magen,m,ä,,,,Anatomy
 stress,es,Belastung,f,en,,,,Psychology|Trait
 stretcher,s,Trage,f,n,tragen,,,Medicine|Health
 stroke,s,Schlaganfall,m,ä-e,Schlag|Anfall,,,Medicine|Health|Disease
@@ -199,7 +252,17 @@ team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
 temperament,s,Temperament,n,sing,,,,Psychology|Emotion|Trait
 temperament,s,Wesenart,f,en,Wesen|Art,,,Psychology|Emotion|Trait
+testicle,s,Hoden,m,-,,,,
 theory,theories,Theorie,f,n,,,,Medicine|Psychology|Math|Statistics|Science
+thigh,s,Oberschenkel,m,-,ober|Schenkel,,,Anatomy
+throat,s,Hals,m,ä-e,,,,Anatomy
+throat,s,Kehle,f,n,,,,Anatomy
+thumb,s,Daumen,m,-,,,,Anatomy
+toe,s,Zeh,m,e,,,,Anatomy
+toenail,s,Fußnagel,m,ä,Fuß|Nagel,,,Anatomy
+tongue,s,Zunge,f,n,,,,Anatomy
+tonsil,s,Mandel,f,n,,,,Anatomy
+tooth,teeth,Zahn,m,ä-e,,,,Anatomy
 toothache,sing,Zahnschmerz,m,en,Zahn|Schmerz,,,Medicine|Health|Disease
 toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
@@ -210,13 +273,16 @@ treatment,s,Behandlung,f,en,,,,Medicine|Health
 treatment table,s,Behandlungstisch,m,e,Behandlung|Tisch,,,Medicine|Health|Equipment
 tumor,s,Tumor,m,s|en,,,,Medicine|Health|Disease
 understanding,sing,Verstand,m,sing,,,,Aptitude
+vagina,s,Scheide,f,n,,,,Anatomy
 variable,s,Variante,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 variable,s,Variable,f,n,,,,Medicine|Psychology|Math|Statistics|Science
+waist,s,Taille,f,n,,,,Anatomy
 waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
 wart,s,Warze,f,n,,,,Medicine|Health|Disease
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 workout,s,Training,n,s,,,,Sport|Fitness|Health
 wound,s,Wunde,f,n,,,,Medicine|Health
+wrist,s,Handgelenk,n,e,Hand|Gelenk,,,Anatomy
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
 X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
