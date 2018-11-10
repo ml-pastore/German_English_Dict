@@ -28,7 +28,7 @@ namespace CsvClean
 
             IEnumerable<string> config = File.ReadAllLines(configName);
         
-            Dictionary<String, ParseFIle> cfKeys = GetParseFIleKeys();
+            Dictionary<String, ParseFile> cfKeys = GetParseFileKeys();
 
             foreach(string cmdLn in config.Where(x => ! x.Trim().StartsWith(":")))
             {
@@ -46,7 +46,7 @@ namespace CsvClean
                     Environment.Exit((int) RetCodes.CsvFileNotFound);
                 }
 
-                ParseFIle cf;
+                ParseFile cf;
 
                 if(! cfKeys.TryGetValue(cmd, out cf))
                 {            
@@ -62,14 +62,14 @@ namespace CsvClean
             Environment.Exit((int) RetCodes.Success);
         }
 
-        static Dictionary<String, ParseFIle> GetParseFIleKeys()
+        static Dictionary<String, ParseFile> GetParseFileKeys()
         {
             
-            Dictionary<String, ParseFIle> ret = new Dictionary<string, ParseFIle>();
-            ret.Add("FileNoun", new ParseFIleNoun());
-            ret.Add("FileAdj", new ParseFIleAdj());
-            ret.Add("FileAdv", new ParseFIleAdv());
-            ret.Add("FileVerb", new ParseFIleVerb());
+            Dictionary<String, ParseFile> ret = new Dictionary<string, ParseFile>();
+            ret.Add("FileNoun", new ParseFileNoun());
+            ret.Add("FileAdj", new ParseFileAdj());
+            ret.Add("FileAdv", new ParseFileAdv());
+            ret.Add("FileVerb", new ParseFileVerb());
 
             return ret;
 

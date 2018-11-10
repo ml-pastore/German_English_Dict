@@ -1,6 +1,6 @@
 using System;
 
-public class ParseFIle
+public class ParseFile
 {
 
 	public string fileName {set; get;}
@@ -9,7 +9,7 @@ public class ParseFIle
 
 }
 
-public class ParseFIleNoun : ParseFIle
+public class ParseFileNoun : ParseFile
 {
 	public override void CleanTheFile()
 	{
@@ -17,7 +17,7 @@ public class ParseFIleNoun : ParseFIle
 	;}
 
 }
-public class ParseFIleAdj : ParseFIle
+public class ParseFileAdj : ParseFile
 {
 	public override void CleanTheFile()
 	{
@@ -25,14 +25,14 @@ public class ParseFIleAdj : ParseFIle
 	;}	
 	
 }
-public class ParseFIleAdv : ParseFIle
+public class ParseFileAdv : ParseFile
 {
 	public override void CleanTheFile()
 	{
 		Console.WriteLine($"Parsing Adv file: {fileName}");
 	;}	
 }
-public class ParseFIleVerb : ParseFIle
+public class ParseFileVerb : ParseFile
 {
 	public override void CleanTheFile()
 	{
