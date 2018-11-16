@@ -318,3 +318,37 @@ wrist,s,Handgelenk,n,e,Hand|Gelenk,,,Anatomy
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
 X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
+vest,s,Weste,f,n,,,,Apparel
+earring,s,Ohrring,m,e,Ohr|Ring,,,Jewelry
+jewelry,pl,Schmuck,m,pl,,,,Jewelry
+nose ring,s,Nasenring,m,e,Nase|Ring,,,Jewelry
+necklace,s,Halskette,f,n,Hals|Kette,,,Jewelry
+wristwatch,es,Armbanduhr,f,en,Arm|Band|Uhr,,,Jewelry|Accessory
+accessory,accessories,Zubehör,n,e,,,,Accessory
+bracelet,s,Armband,n,ä-er,Arm|Band|Uhr,,,Jewelry
+ring,s,Ring,m,e,,,,Jewelry
+mobile phone,s,Handy,n,s,,,,Accessory|Technology|Communications
+hearing aid,s,Hörgerät,n,e,hören|Gerät,,,Accessory|Medical
+aardvark,s,Erdferkel ,n,-,Erde|Ferkel,,,Animal|Mammal
+armadillo,s,Gürteltier,n,e,Gürtel|Tier,,,Animal|Mammal
+baboon,s,Pavian,m,e,,,,Animal|Mammal
+beaver,s,Biber,m,-,,,,Animal|Mammal
+bear,s,Bär,m,en,,,,Animal|Mammal
+bobcat,s,Rotluchs,m,e,rot|Luchs,,,Animal|Mammal
+caribou,s,Karibu,n,s,,,,Animal|Mammal
+cheetah,s,Gepard,m,e,,,,Animal|Mammal
+chimpanzee,s,Schimpanse,m,n,,,,Animal|Mammal
+chipmunk,s,Streifenhörnchen,n,-,Streifen|Hörnchen,,,Animal|Mammal
+wombat,s,Wombat,m,s,,,,Animal|Mammal
+cougar,s,Kuguar,m,s,,,,Animal|Mammal
+coyote,s,Kojote,m,n,,,,Animal|Mammal
+cat,s,Katze,f,n,,,,Animal|Mammal
+dog,s,Hund,m,e,,,,Animal|Mammal
+dingo,s,Dingo,m,s,,,,Animal|Mammal
+elephant,s,Elefant,m,en,,,,Animal|Mammal
+elk,s,Elch,m,e,,,,Animal|Mammal
+fox,es,Fuchs,m,ü-e,,,,Animal|Mammal
+anteater,s,Ameisenbär,m,en,Ameise|Bär,,,Animal|Mammal
+,,,,,,,,Animal|Mammal
+,,,,,,,,Animal|Mammal
+,,,,,,,,Animal|Mammal
