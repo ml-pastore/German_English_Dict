@@ -10,3 +10,5 @@ CsvUtil/Util/bin
 CsvUtil/Util/obj
 CsvUtil/CsvClean/CsvClean.config
 CsvUtil/Test/obj
+CsvUtil/CsvParse/_log/runLog.txt
+CsvUtil/CsvParse/_log/runLog.txt

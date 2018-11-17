@@ -54,9 +54,23 @@ namespace CsvClean
                     continue;
                 }
 
-                cf.fileName = fileToClean;
-                cf.CleanTheFile();
-            
+
+                using(ILogger lg = new Logger())
+                {
+                    lg.LogFile = "_log/runLog.txt";
+                    lg.Write(new string('-', 50));
+                    lg.Write($"{DateTime.Now}");
+
+                    cf.ILog = lg;
+                    cf.FileName = fileToClean;
+
+                    lg.Write(cf.FileRawHeader);
+                    cf.ParseTheFile();
+
+                    lg.Write("Done");
+                    
+                }
+                
             }
 
             Environment.Exit((int) RetCodes.Success);
