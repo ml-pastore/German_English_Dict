@@ -4,7 +4,9 @@ using System.Collections.Generic;
 
 using CsvHelper;
 using System.Text;
+using Newtonsoft.Json;
 
+using System.Linq;
 
 public class ParseFile
 {
@@ -14,13 +16,13 @@ public class ParseFile
 
 	public string FileRawHeader {set; get;}
 
-	public virtual void ParseTheFile(){;}
+	//public virtual void ParseTheFile(){;}
 
  	public virtual string GetHeader(){return "";}
 	
 	private string _fileEncode = "iso-8859-1";
 
-	public IEnumerable<T> ParseTheFile<T>(T rec)
+	protected IEnumerable<T> ParseTheFile<T>(T rec)
 	{
 		
 		string absPath = Path.GetFullPath(FileName);
@@ -35,6 +37,17 @@ public class ParseFile
 
 	}
 
+	public virtual void WriteJSON(){;}
+
+	protected void WriteJSON <T>(IEnumerable<T> recs)
+	{
+
+		string json = JsonConvert.SerializeObject(recs);
+		string outFile = @"_out\" + Path.GetFileNameWithoutExtension(FileName) + ".json";
+		File.WriteAllText(outFile, json);
+
+	}
+
 }
 
 public class ParseFileNoun : ParseFile
@@ -45,7 +58,7 @@ public class ParseFileNoun : ParseFile
 		FileRawHeader = "Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories";
 	}
 
-	public override void ParseTheFile()
+	public override void WriteJSON()
 	{
 		Console.WriteLine($"Parsing Noun file: {FileName}");
 		ILog.Write($"Parsing Noun file: {FileName}");
@@ -61,12 +74,27 @@ public class ParseFileNoun : ParseFile
 			Idiom_English = string.Empty,
 			Idiom_German = string.Empty,
 			Categories = string.Empty
-    	};
-
+			};
+		
 		var recs = base.ParseTheFile(rec);
 
-		// foreach(var r in recs)
-		// 	Console.Write(r.Noun_German + ",");
+		var recsOut = (from r in recs
+			select new { WdType = "Noun"
+				,LgFrom = "English"
+				, LgTo = "German"
+				, WdFrom = r.Noun_English
+				, WdFromPl = r.Plural_English
+				, WdTo = r.Noun_German
+				, WdToPl = r.Plural_German
+				, WdFromGen = "n/a"
+				, WdToGen = r.Gender_German
+				, WdFromParts = ""
+				, WdToParts = r.Parts_German.Split('|')
+				, Categories = r.Categories.Split('|')
+				});				
+		
+		
+		WriteJSON(recsOut);
 
 
 	}
@@ -80,10 +108,11 @@ public class ParseFileAdj : ParseFile
 		FileRawHeader = "Adj_English,Adj_German,Parts_German,Idiom_English,Idiom_German,Categories";
 	}
 
-	public override void ParseTheFile()
+	public override void WriteJSON()
 	{
 	
 		Console.WriteLine($"Parsing Adj file: {FileName}");
+		ILog.Write($"Parsing Adj file: {FileName}");
 
 		var rec = new
 		{
@@ -96,9 +125,21 @@ public class ParseFileAdj : ParseFile
 		};
 
 		var recs = base.ParseTheFile(rec);
+		
+		var recsOut = (from r in recs
+			select new { WdType = "Adj"
+				,LgFrom = "English"
+				, LgTo = "German"
+				, WdFrom = r.Adj_English
+				, WdTo = r.Adj_German
+				, WdFromParts = ""
+				, WdToParts = r.Parts_German.Split('|')
+				, Categories = r.Categories.Split('|')
+				});				
+		
+		
+		WriteJSON(recsOut);
 
-		// foreach(var r in recs)
-		// 	Console.Write(r.Adj_German + ",");
 
 
 	}	
@@ -106,7 +147,7 @@ public class ParseFileAdj : ParseFile
 }
 public class ParseFileAdv : ParseFile
 {
-	public override void ParseTheFile()
+	public override void WriteJSON()
 	{
 		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Parsing Adv file: {FileName}");
@@ -114,7 +155,7 @@ public class ParseFileAdv : ParseFile
 }
 public class ParseFileVerb : ParseFile
 {
-	public override void ParseTheFile()
+	public override void WriteJSON()
 	{
 		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Parsing Verb file: {FileName}");

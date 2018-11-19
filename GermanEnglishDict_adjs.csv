@@ -5,17 +5,17 @@ blue,blau,,,,Color
 bright,hell,,,,Visual
 brown,braun,,,,Color
 dunkel,dark,,,,Visual
-emerald green,smaragdgrün,,Smaragd|grün,,Color
+emerald green,smaragdgrün,Smaragd|grün,,,Color
 gold,gold,,,,Color
 green,grün,,,,Color
 lilac,lila,,,,Color
-lilac,lilafarbig,,lila|Farbe,,Color
+lilac,lilafarbig,lila|Farbe,,,Color
 pink,rosa,,,,Color
-pink,rosafarbig,,rosa|Farbe,,Color
+pink,rosafarbig,rosa|Farbe,,,Color
 purple,purpur,,,,Color
 red,rot,,,,Color
 silver,silver,,,,Color
-tan,hellbraun,,hell|braun,,Color
+tan,hellbraun,hell|braun,,,Color
 turquoise,türkis,,,,Color
 violet,violett,,,,Color
 white,weiß,,,,Color

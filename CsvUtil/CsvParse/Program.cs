@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 
 
-namespace CsvClean
+namespace CsvParse
 {
     class Program
     {
@@ -38,11 +38,11 @@ namespace CsvClean
                 string[] cmdParts = cmdLn.Split(":");
 
                 string cmd = cmdParts[0];
-                string fileToClean = cmdParts[1];
+                string fileToParse = cmdParts[1];
 
-                if(! File.Exists(fileToClean))
+                if(! File.Exists(fileToParse))
                 {
-                    Console.WriteLine($"File does not exist: {fileToClean}");
+                    Console.WriteLine($"File does not exist: {fileToParse}");
                     Environment.Exit((int) RetCodes.CsvFileNotFound);
                 }
 
@@ -62,10 +62,10 @@ namespace CsvClean
                     lg.Write($"{DateTime.Now}");
 
                     cf.ILog = lg;
-                    cf.FileName = fileToClean;
+                    cf.FileName = fileToParse;
 
                     lg.Write(cf.FileRawHeader);
-                    cf.ParseTheFile();
+                    cf.WriteJSON();
 
                     lg.Write("Done");
                     
