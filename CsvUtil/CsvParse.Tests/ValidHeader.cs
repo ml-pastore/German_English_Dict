@@ -18,7 +18,7 @@ namespace CsvParse.Tests
             string fRow = ha.FirstLine();
             Assert.True(fRow == ha.pFile.FileRawHeader, $"Invalid raw {ha.FType} \nHeader: {fRow}\nExpected: {ha.ExpectedHeader()}");
 
-            ha.Fname = "GermanEnglishDict_adj.csv";
+            ha.Fname = "GermanEnglishDict_adjs.csv";
             ha.FType = " ** ADJ ** ";
             ha.pFile = new ParseFileAdj();
             fRow = ha.FirstLine();

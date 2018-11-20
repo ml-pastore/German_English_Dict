@@ -16,8 +16,6 @@ public class ParseFile
 
 	public string FileRawHeader {set; get;}
 
-	//public virtual void ParseTheFile(){;}
-
  	public virtual string GetHeader(){return "";}
 	
 	private string _fileEncode = "iso-8859-1";
