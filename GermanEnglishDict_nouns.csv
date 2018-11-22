@@ -6,6 +6,7 @@ accessory,accessories,Zubehör,n,e,,,,Accessory
 acne,sing,Akne,f,n,,,,Medicine|Health|Disease
 acne,sing,Gesichtspickel ,m,-,Gesicht|Pickel ,,,Medicine|Health|Disease
 addiction,s,Sucht,f,ü-e,,,,Medicine|Health|Disease
+albatross,es,Albatros,m,-,,,,Animal|Bird
 alpaca,s,Alpaka,n,s,,,,Animal|Mammal
 altruism,sing,Altruismus,m,sing,,,,Psychology|Sociology|Ethics|Religion
 altruism,sing,Nächstenliebe,f,sing,Nächste|lieben ,,,Psychology|Sociology|Ethics|Religion
@@ -38,11 +39,15 @@ bicep,s,Bizeps,m,e,,,,Anatomy
 bicycle,s,Fahrrad,n,ä-er,Fahr|Rad,,,Sport|Fitness|Health|Transportation
 bike,s,Drahtesel,m,-,Draht|Esel,,,Sport|Fitness|Health|Transportation
 billy goat,s,Ziegenbock,m,ö-e,Ziege|Bock,,,Animal|Mammal
+bird,s,Vogel,m,ö,,,,Animal|Bird
+blackbird,s,Amsel,f,n,,,,Animal|Bird
 blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
 blood pressure machine,s,Blutdruckmessgerät,n,e,Blut|Druck|messen|Gerät,,,Medicine|Health|Equipment
 blouse,s,Bluse,f,n,,,,Apparel
+bluebird,s,Hüttensänger,m,-,Hütte|Sänger,,,Animal|Bird
+blue-jay,s,Blauhäher,m,-,blau|Häher,,,Animal|Bird
 boar,s,Eber,m,-,,,,Animal|Mammal
 bobcat,s,Rotluchs,m,e,rot|Luchs,,,Animal|Mammal
 bonnet,s,Haube,f,n,,,,Apparel
@@ -73,6 +78,7 @@ cheekbone,s,Backenknochen,m,-,Backen|Knochen,,,Anatomy
 cheekbone,s,Wangenknochen,m,-,Wange|Knochen,,,Anatomy
 cheetah,s,Gepard,m,e,,,,Animal|Mammal
 chest,s,Brust,f,ü-e,,,,Anatomy
+chicken,s,Huhn,n,ü-er,,,,Animal|Bird
 chimpanzee,s,Schimpanse,m,n,,,,Animal|Mammal
 chin,s,Kinn,n,e,,,,Anatomy
 chinchilla,s,Chinchilla,f,s,,,,Animal|Mammal
@@ -97,9 +103,12 @@ cougar,s,Kuguar,m,s,,,,Animal|Mammal
 cow,s,Kuh,f,ü-e,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
+crane,s,Kranich,m,e,,,,Animal|Bird
 crew,s,Mannschaft,f,en,,,,Sport
+crow,s,Krähe,f,n,,,,Animal|Bird
 crown,s,Krone,f,n,,,,Medicine|Health|Disease|Dentistry
 crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
+cuckoo,s,Kuckuck,m,e,,,,Animal|Bird
 cuff,s,Manschette,f,n,,,,Apparel
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
 deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
@@ -119,8 +128,11 @@ dog,s,Hund,m,e,,,,Animal|Mammal
 dolphin,s,Delphin,m,e,,,,Animal|Mammal
 donkey,s,Esel,m,-,,,,Animal|Mammal
 double blind,sing,Doublebind,n,sing,Double|blind,,,Medicine|Psychology|Math|Statistics|Science
+dove,s,Taube,f,n,,,,Animal|Bird
 dress,es,Kleid,n,er,,,,Apparel
+duck,s,Ente,f,n,,,,Animal|Bird
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
+eagle,s,Adler,m,-,,,,Animal|Bird
 ear,s,Ohr,n,en,,,,Anatomy
 earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
 earmuff,s,Ohrenschützer,m,pl,Ohr|schützen,,,Apparel
@@ -128,6 +140,7 @@ earring,s,Ohrring,m,e,Ohr|Ring,,,Jewelry
 eczema,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 ego,s,Ich,n,s|-,,,,Psychology|Trait
 ego,s,Ego,n,s,,,,Psychology|Trait
+egret,s,Reiher,m,-,,,,Animal|Bird
 elbow,s,Ellbogen,m,-,,,,Anatomy
 elephant,s,Elefant,m,en,,,,Animal|Mammal
 elk,s,Elch,m,e,,,,Animal|Mammal
@@ -137,13 +150,16 @@ examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 eye,s,Auge,n,n,,,,Anatomy
 eyebrow,s,Augenbraue,f,n,Auge,,,Anatomy
+falcon,s,Falke,f,n,,,,Animal|Bird
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 ferret,s,Frettchen,n,-,,,,Animal|Mammal
 filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
+finch,es,Fink,m,en,,,,Animal|Bird
 finger,s,Finger,m,-,,,,Anatomy
 fingernail,s,Fingernagel,m,ä,Finger|Nagel,,,Anatomy
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
+flamingo,s,Flamingo,m,s,,,,Animal|Bird
 flu,s,Grippe,f,n,,,,Medicine|Health|Disease
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
 fool,s,Narr,m,en,,,,Aptitude
@@ -166,9 +182,14 @@ glasses,pl,Brille,f,n,,,,Apparel
 glove,s,Hanschuh,m,e,Hand|Schuh,,,Apparel
 gnu,s,Gnu,n,s,,,,Animal|Mammal
 goat,s,Ziege,f,n,,,,Animal|Mammal
+goose,geese,Gans,m,ä-e,,,,Animal|Bird
 gorilla,s,Gorilla,m,s,,,,Animal|Mammal
+goshawk,s,Habicht,m,e,,,,Animal|Bird
+grackle,s,Stärling,m,e,,,,Animal|Bird
 groundhog,s,Murmeltier,n,e,murmeln|Tier,,,Animal|Mammal
+grouse,s,Moorhuhn,n,ü-er,Moor|Huhn,,,Animal|Bird
 guinea pig,s,Meerschweinchen,n,-,Meer|Schweinchen,,,Animal|Mammal
+gull,s,Möwe,f,n,,,,Animal|Bird
 gym lesson,s,Turnstunde,f,n,turnen|Stunde,,,Health|Fitness|Gym
 gym shirt,s,Turnhemd,n,en,turnen|hemd,,,Health|Fitness|Gym|Sport
 gym shorts,pl,Turnhose,f,n,turnen|Hose,,,Health|Fitness|Gym|Sport
@@ -183,6 +204,7 @@ hand,s,Hand,f,ä-e,,,,Anatomy
 hand towel,s,Handtuch,n,ü-er,Hand|Tuch,,,Hygiene|Gym|Bath
 hare,s,Hase,m,n,,,,Animal|Mammal
 hat,s,Hut,m,ü-e,,,,Apparel
+hawk,s,Falke,f,n,,,,Animal|Bird
 head,s,Kopf,m,ö-e,,,,Anatomy
 headache,s,Kopfschmerz,m,en,Kopf|Schmerz,,,Medicine|Health|Disease
 headache,s,Kopfweh,m,sing,Kopf|weh,,,Medicine|Health|Disease
@@ -198,12 +220,15 @@ heel,s,Fersenbein,n,e,Fersen|Bein,,,Anatomy
 heel,s,Absatz,m,ä-e,,,,Apparel
 hemorrhage,s,Blutung,f,en,,,,Medicine|Health|Disease
 hemorrhoid,s,Hämorrhoide,f,n,,,,Medicine|Health|Disease
+heron,s,Fischreiher,m,-,Fisch|Reiher,,,Animal|Bird
+heron,s,Reiher,m,-,,,,Animal|Bird
 heuristic,s,Heuristik,f,sing,,,,Psychology|Pedagogy
 hip,s,Hüfte,f,n,,,,Anatomy
 hippopotamus,hippopotami,Nilpferd,n,e,Nil|Pferd,,,Animal|Mammal
 horse,s,Pferd,n,e,,,,Animal|Mammal
 hospital,s,Krankenhaus,n,ä-er,Krankheit|Haus,,,Medicine|Health|Architecture
 human,s,Mensch,m,en,,,,Animal|Mammal
+hummingbird,s,Kolibri,m,s,,,,Animal|Bird
 hyena,s,Hyäne,m,n,,,,Animal|Mammal
 hypothesis,hypotheses,Hypothese,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 idiot,s,Trottel,m,-,,,,Aptitude
@@ -220,6 +245,7 @@ intestine,s,Darm,m,ä-e,,,,Anatomy
 jackal,s,Schakal,m,e,,,,Animal|Mammal
 jacket,s,Mantel,m,ä,,,,Apparel
 jaguar,s,Jaguar,m,e,,,,Animal|Mammal
+jay,s,Häher,m,-,,,,Animal|Bird
 jewelry,pl,Schmuck,m,pl,,,,Jewelry
 joy,sing,Freude,f,sing,,,,Psychology|Emotion|Trait
 joy,sing,Glück,n,sing,,,,Psychology|Emotion|Trait
@@ -231,6 +257,7 @@ koala,s,Koala,m,s,,,,Animal|Mammal
 koala,s,Koalabär,m,en,Koala|Bär,,,Animal|Mammal
 lab coat,s,Kittel,m,-,,,,Apparel
 laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
+lark,s,Lerche,f,n,,,,Animal|Bird
 laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
 lemming,s,Lemming,m,e,,,,Animal|Mammal
 lemur,s,Lemur,m,s,,,,Animal|Mammal
@@ -242,8 +269,10 @@ lip,s,Lippe,f,n,,,,Anatomy
 liver,s,Leber,f,n,,,,Anatomy
 llama,s,Lama,n,s,,,,Animal|Mammal
 lobotomy,lobotomies,Lobotomie,f,n,,,,Medicine|Health|Psychology
+loon,s,Seetaucher,m,-,See|Taucher,,,Animal|Bird
 lung,s,Lunge,f,n,,,,Anatomy
 lynx,es,Luchs,m,e,,,,Animal|Mammal
+magpie,s,Elster,m,n,,,,Animal|Bird
 mammogram,s,Mammographie,f,n,,,,Medicine|Health
 manatee,s,Manati,m,s,,,,Animal|Mammal
 mandrill,s,Mandrill,m,s,,,,Animal|Mammal
@@ -263,6 +292,7 @@ membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
 mitten,s,Fäustling,m,e,,,,Apparel
 mobile phone,s,Handy,n,s,,,,Accessory|Technology|Communications
+mockingbird,s,Spottdrossel,f,n,Spott|Drossel,,,Animal|Bird
 mole,s,Maulwurf,m,ü-e,,,,Animal|Mammal
 mongoose,s,Manguste,f,n,,,,Animal|Mammal
 mongoose,s,Mungo,m,s,,,,Animal|Mammal
@@ -289,7 +319,10 @@ ointment,s,Salbe,f,n,,,,Medicine|Health
 opossum,s,Opossum,n,s,,,,Animal|Mammal
 opossum,s,Beutelratte,f,n,Beutel|Ratte,,,Animal|Mammal
 orangutan,s,Orang-Utan,m,s,,,,Animal|Mammal
+oriole,s,Goldamsel,f,n,gold|Amsel,,,Animal|Bird
+osprey,s,Fischadler,m,-,Fisch|Adler,,,Animal|Bird
 otter,s,Otter,m,-,,,,Animal|Mammal
+owl,s,Eule,f,n,,,,Animal|Bird
 ox,en,Ochse,m,n,,,,Animal|Mammal
 pancreas,es,Pankreas,n,sing,,,,Anatomy
 panda,s,Panda,m,s,,,,Animal|Mammal
@@ -297,8 +330,10 @@ panda,s,Bambusbär,m,en,Bambus|Bär,,,Animal|Mammal
 panther,s,Panther,m,-,,,,Animal|Mammal
 panty,panties,Schlüpfer,m,-,,,,Apparel
 pantyhose,sing,Strumpfhose,f,n,Strumpf|Hose,,,Apparel
+parrot,s,Papagei,m,en,,,,Animal|Bird
 parsimony,sing,Sparsamkeit,f,sing,sparsam,,,Psychology|Trait
 parsimony,sing,Geiz,m,sing,,,,Psychology|Trait
+partridge,s,Rebhuhn,n,ü-er,Rebe|Hun,,,Animal|Bird
 pathogen,s,Erreger,m,-,,,,Medicine|Health
 pathogen,s,Krankheitserreger,m,-,Krankheit|Erreger,,,Medicine|Health
 pathologist,s,Pathologe,m,n,,,,Medicine|Health|Profession
@@ -306,12 +341,16 @@ pathologist,s,Pathologin,f,nen,,,,Medicine|Health|Profession
 pathology,pathologies,Pathologie,f,n,,,,Medicine|Health|Psychology
 pediatrician,s,Kinderarzt,m,ä-e,,,,Medicine|Health|Profession
 pediatrician,s,Kinderärztin,f,nen,,,,Medicine|Health|Profession
+pelican,s,Pelikan,m,e,,,,Animal|Bird
 penis,es,Penis,m,Penes,,,,Anatomy
 pharmacy,pharmacies,Apotheke,f,n,,,,Medicine|Health
+pheasant,s,Fasan,m,e,,,,Animal|Bird
 phobia,s,Phobie,f,n,,,,Medicine|Health|Psychology
 pig,s,Schwein,n,e,,,,Animal|Mammal
+pigeon,s,Taube,f,n,,,,Animal|Bird
 placebo,es,Placebo,n,s,,,,Medicine|Psychology|Math|Statistics|Science
 platypus,es,Schnabeltier,n,e,Schnabel|Tier,,,Animal|Mammal
+plover,s,Regenpfeifer,m,-,Regen|Pfeifer,,,Animal|Bird
 polar bear,s,Eisbär,m,en,Eis|Bär,,,Animal|Mammal
 porcupine,s,Stachelschwein,n,e,Stachel|Schwein,,,Animal|Mammal
 porpoise,s,Schweinswal,m,e,Schwein|Wal,,,Animal|Mammal
@@ -319,10 +358,12 @@ prescription,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 prescription,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 psychology,sing,Psychologie,f,sing,,,,Medicine|Health|Psychology
 pubic hair,s,Schamhaar,n,sing,Scham|Haar,,,Anatomy
+puffin,s,Papageitaucher,m,-,Papagei|Taucher,,,Animal|Bird
 pulse,s,Puls,m,e,,,,Health|Fitness
 puma,s,Puma,m,s,,,,Animal|Mammal
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
 quadricep,s,Quadrizeps,m,-,,,,Anatomy
+quail,s,Wachtel,f,n,,,,Animal|Bird
 rabbit,s,Hase,m,n,,,,Animal|Mammal
 raccoon,s,Waschbär,m,en,waschen|Bär,,,Animal|Mammal
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
@@ -332,11 +373,13 @@ rhinoceros,es,Nashorn,n,ö-er,Nase|Horn,,,Animal|Mammal
 rib,s,Rippe,f,n,,,,Anatomy
 ribcage,s,Brustkorb,m,ö-e,Brust|Korb,,,Anatomy
 ring,s,Ring,m,e,,,,Jewelry
+robin,s,Rotkehlchen,n,-,rot|Kelch,,,Animal|Bird
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 sadness,sing,Traurigkeit,f,sing,traurig,,,Psychology|Emotion|Trait
 sampling,s,Musterziehung,f,en,Muster|Ziehung,,,Medicine|Psychology|Math|Statistics|Science
 sampling,s,Stichprobe,f,n,Stich|Probe ,,,Medicine|Psychology|Math|Statistics|Science
+sandpiper,s,Strandläufer,m,-,Strand|Läufer,,,Animal|Bird
 sauna,s,Sauna,f,en|s,,,,Gym
 scale,s,Waage,f,n,,,,Medicine|Health|Equipment
 scarf,haeadscarves,Halstuch,n,ü-er,Hals|Tuch,,,Apparel
@@ -345,6 +388,7 @@ script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
 sea lion,s,Seelöwe,m,n,See|Löwe,,,Animal|Mammal
+seagull,s,Seemöwe,f,n,See|Möwe,,,Animal|Bird
 seal,s,Seehund,m,e,See|Hund,,,Animal|Mammal
 self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|Health|Psychology
 self-esteem,sing,Selbstwertgefühl,n,sing,selbst|Wert|Gefühl,,,Psychology|Trait
@@ -362,21 +406,25 @@ skunk,s,Stinktier,n,e,stinken|Tier,,,Animal|Mammal
 sleeve,s,Ärmel,m,-,,,,Apparel
 sloth,s,Faultier,n,e,faul|Tier,,,Animal|Mammal
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
+snipe,s,Schnepfe,f,n,,,,Animal|Bird
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
 sock,s,Socke,f,n,,,,Apparel
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
+sparrow,s,Sperling,m,e,,,,Animal|Bird
 spleen,s,Milz,f,en,,,,Anatomy
 splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
 squirrel,s,Eichhörnchen,n,-,,,,Animal|Mammal
 standard deviations,s,Normalabweichung,f,en,Normal|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
 standard deviations,s,Standardabweichung ,f,en,Standard|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
+starling,s,Star,m,e,,,,Animal|Bird
 stent,s,Stent,m,s,,,,Medicine|Health
 sternum,s,Brustbein,n,e,Brust|Bein,,,Anatomy
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
 stocking,s,Strumpf,m,ü,,,,Apparel
 stomacache,sing,Bauchschmerz,m,sing,Bauch|Schmerz,,,Medicine|Health|Disease
 stomach,s,Magen,m,ä,,,,Anatomy
+stork,s,Storch,m,ö-e,,,,Animal|Bird
 stress,es,Belastung,f,en,,,,Psychology|Trait
 stretcher,s,Trage,f,n,tragen,,,Medicine|Health
 stroke,s,Schlaganfall,m,ä-e,Schlag|Anfall,,,Medicine|Health|Disease
@@ -384,18 +432,26 @@ superego,es,Überich,n,s|-,über|ich,,,Psychology|Trait
 surgeon,s,Chirug,m,en,,,,Medicine|Health|Profession
 surgeon,s,Chirugin,f,nen,,,,Medicine|Health|Profession
 swab,s,Abstrich,m,e,Strich,,,Medicine|Health
+swallow,s,Schwalbe,f,n,,,,Animal|Bird
+swan,s,Schwan,m,ä-e,,,,Animal|Bird
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
+teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
 temperament,s,Temperament,n,sing,,,,Psychology|Emotion|Trait
 temperament,s,Wesenart,f,en,Wesen|Art,,,Psychology|Emotion|Trait
+tern,s,Seeschwalbe,f,n,See|Schwalbe,,,Animal|Bird
+tern,s,Meerschwalbe,f,n,Meer|Schwalbe,,,Animal|Bird
 testicle,s,Hoden,m,-,,,,Anatomy
 theory,theories,Theorie,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 thigh,s,Oberschenkel,m,-,ober|Schenkel,,,Anatomy
 throat,s,Hals,m,ä-e,,,,Anatomy
 throat,s,Kehle,f,n,,,,Anatomy
+thrush,es,Drossel,f,n,,,,Animal|Bird
 thumb,s,Daumen,m,-,,,,Anatomy
 tiger,s,Tiger,m,-,,,,Animal|Mammal
+tit,s,Meise,f,n,,,,Animal|Bird
+titmouse,s,Meise,f,n,,,,Animal|Bird
 toe,s,Zeh,m,e,,,,Anatomy
 toenail,s,Fußnagel,m,ä,Fuß|Nagel,,,Anatomy
 tongue,s,Zunge,f,n,,,,Anatomy
@@ -419,10 +475,13 @@ variable,s,Variante,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 variable,s,Variable,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 veil,s,Schleier,m,-,,,,Apparel
 vest,s,Weste,f,n,,,,Apparel
+vulture,s,Geier,m,-,,,,Animal|Bird
+vulture,s,Aasgeier,m,-,Aas|Geier,,,Animal|Bird
 waist,s,Taille,f,n,,,,Anatomy
 waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
 wallaby,wallabies,Wallaby,n,s,,,,Animal|Mammal
 walrus,es,Walross,m,ö-er,,,,Animal|Mammal
+warbler,s,Waldsänger,m,-,Wald|Sänger,,,Animal|Bird
 wart,s,Warze,f,n,,,,Medicine|Health|Disease
 warthog,s,Warzenschwein,n,e,Warze|Schwein,,,Animal|Mammal
 weasel,s,Wiesel,n,-,,,,Animal|Mammal
@@ -430,8 +489,11 @@ whale,s,Wal,m,e,,,,Animal|Mammal
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 wolf,wolves,Wolf,m,ö-e,,,,Animal|Mammal
 wombat,s,Wombat,m,s,,,,Animal|Mammal
+woodcock,s,Waldschnepfe,f,n,Wald|Schnepfe,,,Animal|Bird
+woodpecker,s,Specht,m,e,,,,Animal|Bird
 workout,s,Training,n,s,,,,Sport|Fitness|Health
 wound,s,Wunde,f,n,,,,Medicine|Health
+wren,s,Zaunkönig,m,e,Zaun|König,,,Animal|Bird
 wrist,s,Handgelenk,n,e,Hand|Gelenk,,,Anatomy
 wristwatch,es,Armbanduhr,f,en,Arm|Band|Uhr,,,Jewelry|Accessory
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
@@ -439,59 +501,3 @@ X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yak,s,Yak,m,s,,,,Animal|Mammal
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
 zebra,s,Zebra,n,s,,,,Animal|Mammal
-bird,s,Vogel,m,ö,,,,Animal|Bird
-woodpecker,s,Specht,m,e,,,,Animal|Bird
-tern,s,Seeschwalbe,f,n,See|Schwalbe,,,Animal|Bird
-tern,s,Meerschwalbe,f,n,Meer|Schwalbe,,,Animal|Bird
-hummingbird,s,Kolibri,m,s,,,,Animal|Bird
-oriole,s,Goldamsel,f,n,gold|Amsel,,,Animal|Bird
-blackbird,s,Amsel,f,n,,,,Animal|Bird
-duck,s,Ente,f,n,,,,Animal|Bird
-crow,s,Krähe,f,n,,,,Animal|Bird
-finch,es,Fink,m,en,,,,Animal|Bird
-robin,s,Rotkehlchen,n,-,rot|Kelch,,,Animal|Bird
-sparrow,s,Sperling,m,e,,,,Animal|Bird
-pelican,s,Pelikan,m,e,,,,Animal|Bird
-woodcock,s,Waldschnepfe,f,n,Wald|Schnepfe,,,Animal|Bird
-snipe,s,Schnepfe,f,n,,,,Animal|Bird
-hawk,s,Falke,f,n,,,,Animal|Bird
-falcon,s,Falke,f,n,,,,Animal|Bird
-loon,s,Seetaucher,m,-,See|Taucher,,,Animal|Bird
-warbler,s,Waldsänger,m,-,Wald|Sänger,,,Animal|Bird
-puffin,s,Papageitaucher,m,-,Papagei|Taucher,,,Animal|Bird
-parrot,s,Papagei,m,en,,,,Animal|Bird
-chicken,s,Huhn,n,ü-er,,,,Animal|Bird
-sandpiper,s,Strandläufer,m,-,Strand|Läufer,,,Animal|Bird
-eagle,s,Adler,m,-,,,,Animal|Bird
-pigeon,s,Taube,f,n,,,,Animal|Bird
-swallow,s,Schwalbe,f,n,,,,Animal|Bird
-goose,geese,Gans,m,ä-e,,,,Animal|Bird
-owl,s,Eule,f,n,,,,Animal|Bird
-wren,s,Zaunkönig,m,e,Zaun|König,,,Animal|Bird
-thrush,es,Drossel,f,n,,,,Animal|Bird
-vulture,s,Geier,m,-,,,,Animal|Bird
-vulture,s,Aasgeier,m,-,Aas|Geier,,,Animal|Bird
-cuckoo,s,Kuckuck,m,e,,,,Animal|Bird
-magpie,s,Elster,m,n,,,,Animal|Bird
-heron,s,Fischreiher,m,-,Fisch|Reiher,,,Animal|Bird
-heron,s,Reiher,m,-,,,,Animal|Bird
-tit,s,Meise,f,n,,,,Animal|Bird
-albatross,es,Albatros,m,-,,,,Animal|Bird
-grouse,s,Moorhuhn,n,ü-er,Moor|Huhn,,,Animal|Bird
-jay,s,Häher,m,-,,,,Animal|Bird
-blue-jay,s,Blauhäher,m,-,blau|Häher,,,Animal|Bird
-teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
-grackle,s,Stärling,m,e,,,,Animal|Bird
-gull,s,Möwe,f,n,,,,Animal|Bird
-seegull,s,Seemöwe,f,n,See|Möwe,,,Animal|Bird
-titmouse,s,Meise,f,n,,,,Animal|Bird
-mockingbird,s,Spottdrossel,f,n,Spott|Drossel,,,Animal|Bird
-bluebird,s,Hüttensänger,m,-,Hütte|Sänger,,,Animal|Bird
-dove,s,Taube,f,n,,,,Animal|Bird
-starling,s,Star,m,e,,,,Animal|Bird
-quail,s,Wachtel,f,n,,,,Animal|Bird
-partridge,s,Rebhuhn,n,ü-er,Rebe|Hun,,,Animal|Bird
-egret,s,Reiher,m,-,,,,Animal|Bird
-flamingo,s,Flamingo,m,s,,,,Animal|Bird
-goshawk,s,Habicht,m,e,,,,Animal|Bird
-,,,,,,,,Animal|Bird
