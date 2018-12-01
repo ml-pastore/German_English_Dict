@@ -109,8 +109,10 @@ public class CleanFileAdj : CleanFile
 	public override void CleanTheFile()
 	{
 		
-		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Cleaning Adj file: {FileName}");
+		ILog.Write($"Cleaning Noun file: {FileName}");
+		ILog.Write($"Commencing...");
+		base.CleanChars();
 	;}	
 	
 }
