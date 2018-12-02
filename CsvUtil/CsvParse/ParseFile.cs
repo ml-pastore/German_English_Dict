@@ -81,9 +81,9 @@ public class ParseFileNoun : ParseFile
 				,LgFrom = "English"
 				, LgTo = "German"
 				, WdFrom = r.Noun_English
-				, WdFromPl = r.Plural_English
+				, WdFromPl = r.Plural_English.Split('|')
 				, WdTo = r.Noun_German
-				, WdToPl = r.Plural_German
+				, WdToPl = r.Plural_German.Split('|')
 				, WdFromGen = "n/a"
 				, WdToGen = r.Gender_German
 				, WdFromParts = ""
