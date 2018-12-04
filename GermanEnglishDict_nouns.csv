@@ -21,6 +21,7 @@ anger,sing,Ärger,m,sing,,,,Psychology|Emotion|Trait
 anger,sing,Zorn,m,sing,,,,Psychology|Emotion|Trait
 ankle,s,Fußknöchel,m,-,Fuß|Knöchel,,,Anatomy
 ant,s,Ameise,f,n,,,,Animal|Insect
+ant sac- spider,s,Ameisensackspinne,f,n,Ameise|Sack|Spinne,,,Animal|Spider
 anteater,s,Ameisenbär,m,en,Ameise|Bär,,,Animal|Mammal
 antelope,s,Antilope,f,n,,,,Animal|Mammal
 anus,es,Anus,m,Ani,,,,Anatomy
@@ -34,6 +35,7 @@ backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 badger,s,Dachs,m,e,,,,Animal|Mammal
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
+baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
 bat,s,Fledermaus,f,ä-e,-|Maus,,,Animal|Mammal
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 bear,s,Bär,m,en,,,,Animal|Mammal
@@ -48,6 +50,7 @@ bicycle,s,Fahrrad,n,ä-er,Fahr|Rad,,,Sport|Fitness|Health|Transportation
 bike,s,Drahtesel,m,-,Draht|Esel,,,Sport|Fitness|Health|Transportation
 billy goat,s,Ziegenbock,m,ö-e,Ziege|Bock,,,Animal|Mammal
 bird,s,Vogel,m,ö,,,,Animal|Bird
+black widow spider,s,Schwarze Witwe,f,n,schwarz|Witwe,,,Animal|Spider
 blackbird,s,Amsel,f,n,,,,Animal|Bird
 blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
@@ -72,6 +75,7 @@ bug,s,Wanze,f,n,,,,Animal|Insect
 butterfly,butterflies,Schmetterling,m,e,,,,Animal|Insect
 buttock,s,Gesäßhälfte,f,n,Gesäß|Hälfte,,,Anatomy
 button,s,Knopf,m,ö-e,,,,Apparel
+buzzing spider,s,Zartspinne,f,n,zart|Spinne,,,Animal|Spider
 calf,calves,Wade,f,n,,,,Anatomy
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 camel,s,Kamel,n,e,,,,Animal|Mammal
@@ -82,6 +86,7 @@ cat,s,Katze,f,n,,,,Animal|Mammal
 caterpillar,s,Raupe,f,n,,,,Animal|Insect
 catharsis,sing,Katharsis,f,sing,,,,Psychology|Sociology|Ethics|Religion
 cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
+cellar spider,s,Zitterspinne,f,n,Zittern|Spinne,,,Animal|Spider
 centipede,s,Hundertfüßer,m,-,hundert|Fuß,,,Animal|Insect
 cerebral aneurysm,s,Gehirnaneurysma,n,Gehirnaneurysmen,Gehirn|Aneurysma,,,Medicine|Health|Disease
 chameleon,s,Chamäleon,n,s,,,,Animal|Reptile|Lizard
@@ -102,6 +107,7 @@ cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 clitoris,es,Kitzler,m,-,,,,Anatomy|Sexuality
 cobra,s,Kobra,f,s,,,,Animal|Reptile|Snake
+cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
 cockroach,es,Kakerlake,f,n,,,,Animal|Insect
 cognition,sing,Erkenntnisvermögen,n,sing,Erkenntnis|Vermögen,,,Medicine|Health|Psychology|Aptitude
 cognition,sing,Erkenntnis,n,sing,,,,Medicine|Health|Psychology|Aptitude
@@ -120,6 +126,7 @@ cougar,s,Kuguar,m,s,,,,Animal|Mammal
 cow,s,Kuh,f,ü-e,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
+crab spider,s,Krabbenspinne,f,n,Krabbe|Spinne,,,Animal|Spider
 crane,s,Kranich,m,e,,,,Animal|Bird
 crew,s,Mannschaft,f,en,,,,Sport
 cricket,s,Grille,f,n,,,,Animal|Insect
@@ -130,6 +137,7 @@ crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cuckoo,s,Kuckuck,m,e,,,,Animal|Bird
 cuff,s,Manschette,f,n,,,,Apparel
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+daddy long legs,pl,Weberknecht,m,e,Weber|Knecht,,,Animal|Spider
 deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
 deer,s,Reh,n,e,,,,Animal|Mammal
 deltoid,s,Deltamuskel,m,n,Delta|Muskel,,,Anatomy
@@ -172,12 +180,14 @@ exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 eye,s,Auge,n,n,,,,Anatomy
 eyebrow,s,Augenbraue,f,n,Auge,,,Anatomy
 falcon,s,Falke,f,n,,,,Animal|Bird
+false scorpion,s,Pseudoskorpione,f,n,Pseudo|Skorpione,,,Animal|Spider
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
 ferret,s,Frettchen,n,-,,,,Animal|Mammal
 filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
 finch,es,Fink,m,en,,,,Animal|Bird
 finger,s,Finger,m,-,,,,Anatomy
 fingernail,s,Fingernagel,m,ä,Finger|Nagel,,,Anatomy
+fisher spider,s,Raubspinne,f,n,Raub|Spinne,,,Animal|Spider
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 flamingo,s,Flamingo,m,s,,,,Animal|Bird
@@ -197,6 +207,7 @@ frog,s,Frosch,m,ö-e,,,,Animal|Amphibian
 front desk,s,Rezeption,f,en,,,,Medicine|Health|Office
 fruit fly,fruit flies,Fruchtfliege,f,n,Frucht|Fliege,,,Animal|Insect
 frustration,sing,Frust,m,sing,,,,Psychology|Emotion
+funnel weaver,s,Trichterspinne,f,n,Trichter|Spinne,,,Animal|Spider
 funny bone,s,Narrenbein,n,e,Narr|Bein,,,Anatomy
 garter snake,s,Strumpfbandnatter,f,n,Strumpf|Band|Natter,,,Animal|Reptile|Snake
 gecko,s,Gecko,m,s,,,,Animal|Reptile|Lizard
@@ -215,6 +226,8 @@ goshawk,s,Habicht,m,e,,,,Animal|Bird
 grackle,s,Stärling,m,e,,,,Animal|Bird
 grasshopper,s,Grashüpfer,m,-,Gras|hüpfen,,,Animal|Insect
 grasshopper,,Heuschrecke,f,n,Heu|Schrecken,,,Animal|Insect
+ground sac spider,s,Glattbeinspinne,f,n,glatt|Bein|Spinne,,,Animal|Spider
+ground spider,s,Plattbauchspinne,f,n,platt|Bauch|Spinne,,,Animal|Spider
 groundhog,s,Murmeltier,n,e,murmeln|Tier,,,Animal|Mammal
 grouse,s,Moorhuhn,n,ü-er,Moor|Huhn,,,Animal|Bird
 guinea pig,s,Meerschweinchen,n,-,Meer|Schweinchen,,,Animal|Mammal
@@ -280,6 +293,7 @@ jay,s,Häher,m,-,,,,Animal|Bird
 jewelry,pl,Schmuck,m,pl,,,,Jewelry
 joy,sing,Freude,f,sing,,,,Psychology|Emotion|Trait
 joy,sing,Glück,n,sing,,,,Psychology|Emotion|Trait
+jumping spider,s,Springspinne,f,n,springen|Spinne,,,Animal|Spider
 kangaroo,s,Känguru,m,s,,,,Animal|Mammal
 kidney,s,Niere,f,n,,,,Anatomy
 kidney disease,s,Nierenerkrankung,f,en,Niere|Erkrankung,,,Medicine|Health|Disease
@@ -290,6 +304,7 @@ koala,s,Koalabär,m,en,Koala|Bär,,,Animal|Mammal
 Komodo dragon,s,Komodowaran,m,e,Komodo|Waran,,,Animal|Reptile|Lizard
 lab coat,s,Kittel,m,-,,,,Apparel
 laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
+lace-weaver spider,s,Finsterspinne,f,n,finster|Spinne,,,Animal|Spider
 ladybug,s,Glückskäfer,m,-,Glück|Käfer,,,Animal|Insect
 lark,s,Lerche,f,n,,,,Animal|Bird
 larva,e|s,Larve,f,n,,,,Animal|Insect
@@ -305,10 +320,12 @@ liver,s,Leber,f,n,,,,Anatomy
 lizard,s,Eidechse,f,n,Eid|Echse,,,Animal|Reptile|Lizard
 llama,s,Lama,n,s,,,,Animal|Mammal
 lobotomy,lobotomies,Lobotomie,f,n,,,,Medicine|Health|Psychology
+long-jawed orb-weaver,s,Dickkieferspinne,f,n,dick|Kiefer|Spinne,,,Animal|Spider
 loon,s,Seetaucher,m,-,See|Taucher,,,Animal|Bird
 louse,lice,Laus,f,ä-e,,,,Animal|Insect
 lung,s,Lunge,f,n,,,,Anatomy
 lynx,es,Luchs,m,e,,,,Animal|Mammal
+Lynx spider,s,Luchsspinne,f,n,Luchs|Spinne,,,Animal|Spider
 magpie,s,Elster,m,n,,,,Animal|Bird
 mammogram,s,Mammographie,f,n,,,,Medicine|Health
 manatee,s,Manati,m,s,,,,Animal|Mammal
@@ -328,6 +345,7 @@ membership contract,s,Mitgliedvertrag,m,ä-e,Mitglied|Vertrag,,,Social|Organizati
 membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
 membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
+mesh-weaver,s,Kräuselspinne,f,n,kraus|Spinnen,,,Animal|Spider
 millipede,s,Tausendfüßer,m,-,tausend|Fuß,,,Animal|Insect
 mite,s,Milbe,f,n,,,,Animal|Spider
 mitten,s,Fäustling,m,e,,,,Apparel
@@ -363,6 +381,7 @@ ointment,s,Salbe,f,n,,,,Medicine|Health
 opossum,s,Opossum,n,s,,,,Animal|Mammal
 opossum,s,Beutelratte,f,n,Beutel|Ratte,,,Animal|Mammal
 orangutan,s,Orang-Utan,m,s,,,,Animal|Mammal
+orb-weaving spider,s,Radnetzspinne,f,n,Rad|Netz|Spinne,,,Animal|Spider
 oriole,s,Goldamsel,f,n,gold|Amsel,,,Animal|Bird
 osprey,s,Fischadler,m,-,Fisch|Adler,,,Animal|Bird
 otter,s,Otter,m,-,,,,Animal|Mammal
@@ -406,6 +425,7 @@ pubic hair,s,Schamhaar,n,sing,Scham|Haar,,,Anatomy
 puffin,s,Papageitaucher,m,-,Papagei|Taucher,,,Animal|Bird
 pulse,s,Puls,m,e,,,,Health|Fitness
 puma,s,Puma,m,s,,,,Animal|Mammal
+purse-web spider,s,Tapezierspinne,f,n,Tapezierer|Spinne,,,Animal|Spider
 pushup,s,Liegestütz,m,n,liegen|stützen,,,Health|Fitness|Gym
 python,s,Python,f,s,,,,Animal|Reptile|Snake
 quadricep,s,Quadrizeps,m,-,,,,Anatomy
@@ -423,6 +443,8 @@ ring,s,Ring,m,e,,,,Jewelry
 robin,s,Rotkehlchen,n,-,rot|Kelch,,,Animal|Bird
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
+running crab spider,s,Laufspinne,f,n,laufen|Spinne,,,Animal|Spider
+sac-spider,s,Sackspinne,f,n,Sack|Spinne,,,Animal|Spider
 sadness,sing,Traurigkeit,f,sing,traurig,,,Psychology|Emotion|Trait
 salamander,s,Salamander,m,-,,,,Animal|Amphibian
 sampling,s,Musterziehung,f,en,Muster|Ziehung,,,Medicine|Psychology|Math|Statistics|Science
@@ -442,6 +464,7 @@ self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|He
 self-esteem,sing,Selbstwertgefühl,n,sing,selbst|Wert|Gefühl,,,Psychology|Trait
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
 sheep,-,Schaf,n,e,,,,Animal|Mammal
+sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
 shinbone,s,Schienbein,n,e,Schien|Bein,,,Anatomy
 shirt,s,Hemd,n,en,,,,Apparel
 shoe,s,Schuh,m,e,,,,Apparel
@@ -454,12 +477,15 @@ skunk,s,Stinktier,n,e,stinken|Tier,,,Animal|Mammal
 sleeve,s,Ärmel,m,-,,,,Apparel
 sloth,s,Faultier,n,e,faul|Tier,,,Animal|Mammal
 snake,s,Schlange,f,n,,,,Animal|Reptile|Snake
+sneak spider,s,Sechsaugenspinne,f,n,Sechs|Auge|Spinne,,,Animal|Spider
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 snipe,s,Schnepfe,f,n,,,,Animal|Bird
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
 sock,s,Socke,f,n,,,,Apparel
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
 sparrow,s,Sperling,m,e,,,,Animal|Bird
+spider,s,Spinne,f,n,,,,Animal|Spider
+spitting spider,s,Speispinne,f,n,speien|Spinne,,,Animal|Spider
 spleen,s,Milz,f,en,,,,Anatomy
 splint,s,Schiene,f,n,,,,Medicine|Health
 squad,s,Mannschaft,f,en,,,,Sport
@@ -485,6 +511,7 @@ swab,s,Abstrich,m,e,Strich,,,Medicine|Health
 swallow,s,Schwalbe,f,n,,,,Animal|Bird
 swan,s,Schwan,m,ä-e,,,,Animal|Bird
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
+tarantula,s,Tarantel,f,n,,,,Animal|Spider
 teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
@@ -545,6 +572,7 @@ weevil,s,Rüsselkäfer,m,-,Rüssel|Käfer,,,Animal|Insect
 whale,s,Wal,m,e,,,,Animal|Mammal
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 wolf,wolves,Wolf,m,ö-e,,,,Animal|Mammal
+wolf spider,s,Wolfspinne,f,n,Wolf|Spinne,,,Animal|Spider
 wombat,s,Wombat,m,s,,,,Animal|Mammal
 woodcock,s,Waldschnepfe,f,n,Wald|Schnepfe,,,Animal|Bird
 woodpecker,s,Specht,m,e,,,,Animal|Bird
@@ -559,31 +587,3 @@ X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yak,s,Yak,m,s,,,,Animal|Mammal
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
 zebra,s,Zebra,n,s,,,,Animal|Mammal
-spider,s,Spinne,f,n,,,,Animal|Spider
-tarantula,s,Tarantel,f,n,,,,Animal|Spider
-black widow spider,s,Schwarze Witwe,f,n,schwarz|Witwe,,,Animal|Spider
-purse-web spider,s,Tapezierspinne,f,n,Tapezierer|Spinne,,,Animal|Spider
-orb-weaving spider,s,Radnetzspinne,f,n,Rad|Netz|Spinne,,,Animal|Spider
-sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
-baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
-long-jawed orb-weaver,s,Dickkieferspinne,f,n,dick|Kiefer|Spinne,,,Animal|Spider
-spitting spider,s,Speispinne,f,n,speien|Spinne,,,Animal|Spider
-mesh-weaver,s,Kräuselspinne,f,n,kraus|Spinnen,,,Animal|Spider
-cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
-cellar spider,s,Zitterspinne,f,n,Zittern|Spinne,,,Animal|Spider
-crab spider,s,Krabbenspinne,f,n,Krabbe|Spinne,,,Animal|Spider
-running crab spider,s,Laufspinne,f,n,laufen|Spinne,,,Animal|Spider
-jumping spider,s,Springspinne,f,n,springen|Spinne,,,Animal|Spider
-Lynx spider,s,Luchsspinne,f,n,Luchs|Spinne,,,Animal|Spider
-funnel weaver,s,Trichterspinne,f,n,Trichter|Spinne,,,Animal|Spider
-wolf spider,s,Wolfspinne,f,n,Wolf|Spinne,,,Animal|Spider
-fisher spider,s,Raubspinne,f,n,Raub|Spinne,,,Animal|Spider
-ground sac spider,s,Glattbeinspinne,f,n,glatt|Bein|Spinne,,,Animal|Spider
-ground spider,s,Plattbauchspinne,f,n,platt|Bauch|Spinne,,,Animal|Spider
-lace-weaver spider,s,Finsterspinne,f,n,finster|Spinne,,,Animal|Spider
-ant sac- spider,s,Ameisensackspinne,f,n,Ameise|Sack|Spinne,,,Animal|Spider
-sneak spider,s,Sechsaugenspinne,f,n,Sechs|Auge|Spinne,,,Animal|Spider
-sac-spider,s,Sackspinne,f,n,Sack|Spinne,,,Animal|Spider
-buzzing spider,s,Zartspinne,f,n,zart|Spinne,,,Animal|Spider
-daddy long legs,pl,Weberknecht,m,e,Weber|Knecht,,,Animal|Spider
-false scorpion,s,Pseudoskorpione,f,n,Pseudo|Skorpione,,,Animal|Spider
