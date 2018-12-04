@@ -329,7 +329,7 @@ membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
 membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
 millipede,s,Tausendfüßer,m,-,tausend|Fuß,,,Animal|Insect
-mite,s,Milbe,f,n,,,,Animal|Insect
+mite,s,Milbe,f,n,,,,Animal|Spider
 mitten,s,Fäustling,m,e,,,,Apparel
 mobile phone,s,Handy,n,s,,,,Accessory|Technology|Communications
 mockingbird,s,Spottdrossel,f,n,Spott|Drossel,,,Animal|Bird
@@ -559,4 +559,31 @@ X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yak,s,Yak,m,s,,,,Animal|Mammal
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
 zebra,s,Zebra,n,s,,,,Animal|Mammal
-,,,,,,,,Animal|Insect
+spider,s,Spinne,f,n,,,,Animal|Spider
+tarantula,s,Tarantel,f,n,,,,Animal|Spider
+black widow spider,s,Schwarze Witwe,f,n,schwarz|Witwe,,,Animal|Spider
+purse-web spider,s,Tapezierspinne,f,n,Tapezierer|Spinne,,,Animal|Spider
+orb-weaving spider,s,Radnetzspinne,f,n,Rad|Netz|Spinne,,,Animal|Spider
+sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
+baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
+long-jawed orb-weaver,s,Dickkieferspinne,f,n,dick|Kiefer|Spinne,,,Animal|Spider
+spitting spider,s,Speispinne,f,n,speien|Spinne,,,Animal|Spider
+mesh-weaver,s,Kräuselspinne,f,n,kraus|Spinnen,,,Animal|Spider
+cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
+cellar spider,s,Zitterspinne,f,n,Zittern|Spinne,,,Animal|Spider
+crab spider,s,Krabbenspinne,f,n,Krabbe|Spinne,,,Animal|Spider
+running crab spider,s,Laufspinne,f,n,laufen|Spinne,,,Animal|Spider
+jumping spider,s,Springspinne,f,n,springen|Spinne,,,Animal|Spider
+Lynx spider,s,Luchsspinne,f,n,Luchs|Spinne,,,Animal|Spider
+funnel weaver,s,Trichterspinne,f,n,Trichter|Spinne,,,Animal|Spider
+wolf spider,s,Wolfspinne,f,n,Wolf|Spinne,,,Animal|Spider
+fisher spider,s,Raubspinne,f,n,Raub|Spinne,,,Animal|Spider
+ground sac spider,s,Glattbeinspinne,f,n,glatt|Bein|Spinne,,,Animal|Spider
+ground spider,s,Plattbauchspinne,f,n,platt|Bauch|Spinne,,,Animal|Spider
+lace-weaver spider,s,Finsterspinne,f,n,finster|Spinne,,,Animal|Spider
+ant sac- spider,s,Ameisensackspinne,f,n,Ameise|Sack|Spinne,,,Animal|Spider
+sneak spider,s,Sechsaugenspinne,f,n,Sechs|Auge|Spinne,,,Animal|Spider
+sac-spider,s,Sackspinne,f,n,Sack|Spinne,,,Animal|Spider
+buzzing spider,s,Zartspinne,f,n,zart|Spinne,,,Animal|Spider
+daddy long legs,pl,Weberknecht,m,e,Weber|Knecht,,,Animal|Spider
+false scorpion,s,Pseudoskorpione,f,n,Pseudo|Skorpione,,,Animal|Spider
