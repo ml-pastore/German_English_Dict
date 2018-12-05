@@ -20,6 +20,8 @@ public class ParseFile
 	
 	private string _fileEncode = "iso-8859-1";
 
+	public string OutBuff {set; get;}
+
 	protected IEnumerable<T> ParseTheFile<T>(T rec)
 	{
 		
@@ -35,16 +37,16 @@ public class ParseFile
 
 	}
 
-	public virtual void WriteJSON(){;}
+	public virtual string GetJSON(){return "??";}
 
-	protected void WriteJSON <T>(IEnumerable<T> recs)
+	protected string GetJSON <T>(IEnumerable<T> recs)
 	{
 
-		string json = JsonConvert.SerializeObject(recs);
-		string outFile = @"_out\" + Path.GetFileNameWithoutExtension(FileName) + ".json";
-		File.WriteAllText(outFile, json);
-
+		OutBuff = JsonConvert.SerializeObject(recs);
+		return OutBuff;
 	}
+
+	
 
 }
 
@@ -56,7 +58,7 @@ public class ParseFileNoun : ParseFile
 		FileRawHeader = "Noun_English,Plural_English,Noun_German,Gender_German,Plural_German,Parts_German,Idiom_English,Idiom_German,Categories";
 	}
 
-	public override void WriteJSON()
+	public override string GetJSON()
 	{
 		Console.WriteLine($"Parsing Noun file: {FileName}");
 		ILog.Write($"Parsing Noun file: {FileName}");
@@ -92,7 +94,7 @@ public class ParseFileNoun : ParseFile
 				});				
 		
 		
-		WriteJSON(recsOut);
+		return GetJSON(recsOut);
 
 
 	}
@@ -106,7 +108,7 @@ public class ParseFileAdj : ParseFile
 		FileRawHeader = "Adj_English,Adj_German,Parts_German,Idiom_English,Idiom_German,Categories";
 	}
 
-	public override void WriteJSON()
+	public override string GetJSON()
 	{
 	
 		Console.WriteLine($"Parsing Adj file: {FileName}");
@@ -136,7 +138,7 @@ public class ParseFileAdj : ParseFile
 				});				
 		
 		
-		WriteJSON(recsOut);
+		return GetJSON(recsOut);
 
 
 
@@ -145,17 +147,19 @@ public class ParseFileAdj : ParseFile
 }
 public class ParseFileAdv : ParseFile
 {
-	public override void WriteJSON()
+	public override string GetJSON()
 	{
 		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Parsing Adv file: {FileName}");
+		return "??";
 	;}	
 }
 public class ParseFileVerb : ParseFile
 {
-	public override void WriteJSON()
+	public override string GetJSON()
 	{
 		throw new NotImplementedException("Not implemented!");
 		Console.WriteLine($"Parsing Verb file: {FileName}");
+		return "??";
 	;}	
 }

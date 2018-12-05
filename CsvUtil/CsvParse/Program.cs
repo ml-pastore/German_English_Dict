@@ -30,6 +30,10 @@ namespace CsvParse
         
             Dictionary<String, ParseFile> cfKeys = GetParseFileKeys();
 
+            string combinedBuff = string.Empty;
+
+            string logName = "_log/runLog.txt";
+
             foreach(string cmdLn in config.Where(x => ! x.Trim().StartsWith(":")))
             {
 
@@ -57,7 +61,7 @@ namespace CsvParse
 
                 using(ILogger lg = new Logger())
                 {
-                    lg.LogFile = "_log/runLog.txt";
+                    lg.LogFile = logName;
                     lg.Write(new string('-', 50));
                     lg.Write($"{DateTime.Now}");
 
@@ -65,13 +69,37 @@ namespace CsvParse
                     cf.FileName = fileToParse;
 
                     lg.Write(cf.FileRawHeader);
-                    cf.WriteJSON();
 
-                    lg.Write("Done");
-                    
+                    string buff = cf.GetJSON();
+
+                    if(! string.IsNullOrEmpty(buff))
+                    {
+
+                        bool emptyCombBuff = string.IsNullOrEmpty(combinedBuff);
+
+                        // remove closing "]" and opening "[" so this is full json 
+                        if(! emptyCombBuff)
+                        {
+                         combinedBuff = combinedBuff.Substring(0,combinedBuff.Length-1);
+                         buff = string.Concat(",",buff.Substring(1));
+                        }
+
+                        combinedBuff +=  buff;
+                    }
                 }
-                
+
             }
+
+
+              using(ILogger lg = new Logger())
+                {
+                    lg.LogFile = logName;
+                    lg.Write(new string('-', 50));
+                    string outFile = @"_out\" + "GermanEnglishDict.json";
+                    lg.Write($"Outputting to: {outFile}");
+                    File.WriteAllText(outFile, combinedBuff);
+                    lg.Write("Done");
+                }
 
             Environment.Exit((int) RetCodes.Success);
         }
