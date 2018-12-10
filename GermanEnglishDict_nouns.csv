@@ -36,6 +36,7 @@ badger,s,Dachs,m,e,,,,Animal|Mammal
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
 baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
+baster,s,Bratensaftspritze,f,n,Braten|Saft|Spritze,,,Home|Kitchen
 bat,s,Fledermaus,f,ä-e,-|Maus,,,Animal|Mammal
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
 bear,s,Bär,m,en,,,,Animal|Mammal
@@ -52,6 +53,8 @@ billy goat,s,Ziegenbock,m,ö-e,Ziege|Bock,,,Animal|Mammal
 bird,s,Vogel,m,ö,,,,Animal|Bird
 black widow spider,s,Schwarze Witwe,f,n,schwarz|Witwe,,,Animal|Spider
 blackbird,s,Amsel,f,n,,,,Animal|Bird
+blender,s,Vermischer,m,-,,,,Home|Kitchen
+blender,s,Mixgerät,n,e,Mix|Gerät,,,Home|Kitchen
 blindness,es,Blindheit,f,en,,,,Medicine|Health|Disease
 blood pressure,sing,Blutdruck,m,sing,Blut|Druck,,,Medicine|Health
 blood pressure cuff,s,Blutdruckmanschette,f,n,Blut|Druck|Manschette,,,Medicine|Health|Equipment
@@ -65,6 +68,10 @@ bobcat,s,Rotluchs,m,e,rot|Luchs,,,Animal|Mammal
 bonnet,s,Haube,f,n,,,,Apparel
 bottom,s,Gesäß,n,e,,,,Anatomy
 bowel,s,Darm,m,ä-e,,,,Medicine|Health|Anatomy
+bowl,s,Schale,f,n,,,,Home|Kitchen
+bowl,s,Schüssel,f,n,,,,Home|Kitchen
+bowl,s,Napf,m,ä-e,,,,Home|Kitchen
+bowl,s,Becher,m,-,,,,Home|Kitchen
 bra,s,Büstenhalter,m,-,Büste|Halter,,,Apparel
 bracelet,s,Armband,n,ä-er,Arm|Band|Uhr,,,Jewelry
 brain,s,Gehirn,n,e,,,,Anatomy
@@ -72,13 +79,17 @@ bruise,s,Prellung,f,en,,,,Medicine|Health|Injury
 buck,s,Bock,m,ö-e,,,,Animal|Mammal
 buffalo,s,Büffel,m,-,,,,Animal|Mammal
 bug,s,Wanze,f,n,,,,Animal|Insect
+burner,s,Herdplatte,f,n,Herd|Platte,,,Home|Kitchen
+butter knife,knives,Buttermesser,n,-,Butter|Messer,,,Home|Kitchen
 butterfly,butterflies,Schmetterling,m,e,,,,Animal|Insect
 buttock,s,Gesäßhälfte,f,n,Gesäß|Hälfte,,,Anatomy
 button,s,Knopf,m,ö-e,,,,Apparel
 buzzing spider,s,Zartspinne,f,n,zart|Spinne,,,Animal|Spider
+calendar,s,Kalender,m,-,,,,Home|Kitchen
 calf,calves,Wade,f,n,,,,Anatomy
 calisthenics,pl,Fitness-Übung,f,en,,,,Sport|Fitness|Health
 camel,s,Kamel,n,e,,,,Animal|Mammal
+can opener,s,Büchsenöffner,m,-,Büchse|öffnen,,,Home|Kitchen
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 caribou,s,Karibu,n,s,,,,Animal|Mammal
 cast,s,Gips,m,e,,,,Medicine|Health
@@ -106,11 +117,14 @@ chipmunk,s,Streifenhörnchen,n,-,Streifen|Hörnchen,,,Animal|Mammal
 cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 clitoris,es,Kitzler,m,-,,,,Anatomy|Sexuality
+coaster,s,Untersetzer,m,-,unter|setzen,,,Home|Kitchen
 cobra,s,Kobra,f,s,,,,Animal|Reptile|Snake
 cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
 cockroach,es,Kakerlake,f,n,,,,Animal|Insect
+coffee machine,s,Kaffeemaschine,f,n,Kaffee|Maschine,,,Home|Kitchen
 cognition,sing,Erkenntnisvermögen,n,sing,Erkenntnis|Vermögen,,,Medicine|Health|Psychology|Aptitude
 cognition,sing,Erkenntnis,n,sing,,,,Medicine|Health|Psychology|Aptitude
+colander,s,Küchensieb,n,e,Küche|Sieb,,,Home|Kitchen
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
 collar,s,Kragen,m,-,,,,Apparel
 collarbone,s,Schlüsselbein,n,e,Schlüssel|Bein,,,Anatomy
@@ -120,9 +134,15 @@ congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
 constipation,sing,Konstipation,f,sing,,,,Medicine|Health|Disease
 constipation,sing,Darmträgheit,f,sing,Darm|Trägheit,,,Medicine|Health|Disease
 consultation,s,Beratung,f,en,,,,Medicine|Health
+cookie cutter,s,Ausstechform,f,en,aus|stechen|Form,,,Home|Kitchen
+cookie sheet,s,Keksplatte,f,n,Keks|Platte,,,Home|Kitchen
+cooking thermometer,s,Bratenthermometer,n,-,braten|Thermometer,,,Home|Kitchen
+cooking tongs,pl,Küchenzange,f,pl,Küchen|Zange,,,Home|Kitchen
+cooling rack,s,Kühlregal,n,e,kühl|Regal,,,Home|Kitchen
 copperhead,s,Kupferkopf,m,ö-e,Kupfer|Kopf,,,Animal|Reptile|Snake
 cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
 cougar,s,Kuguar,m,s,,,,Animal|Mammal
+counter top,s,Tischplatte,m,e,Tisch|Platte,,,Home|Kitchen
 cow,s,Kuh,f,ü-e,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
 coyote,s,Kojote,m,n,,,,Animal|Mammal
@@ -136,7 +156,10 @@ crown,s,Krone,f,n,,,,Medicine|Health|Disease|Dentistry
 crutch,es,Krücke,f,n,,,,Medicine|Health|Equipment
 cuckoo,s,Kuckuck,m,e,,,,Animal|Bird
 cuff,s,Manschette,f,n,,,,Apparel
+cup,s,Tasse,f,n,,,,Home|Kitchen
+cupboard,s,Küchenschrank,m,ä-e,Küche|Schrank,,,Home|Kitchen
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
+cutting board,s,Schneidebrett,n,e,schneiden|Brett,,,Home|Kitchen
 daddy long legs,pl,Weberknecht,m,e,Weber|Knecht,,,Animal|Spider
 deafness,sing,Taubheit,f,sing,,,,Medicine|Health|Disease
 deer,s,Reh,n,e,,,,Animal|Mammal
@@ -148,6 +171,8 @@ depression,s,Depression,f,n,,,,Medicine|Health|Disease|Psychology
 dermatitis,sing,Hautentzündung,f,en,Haut|Entzündung ,,,Medicine|Health|Disease
 diarrhea,sing,Durchfall,m,sing,durch|fallen ,,,Medicine|Health|Disease
 dingo,s,Dingo,m,s,,,,Animal|Mammal
+dishwasher,s,Spülmaschine,f,n,spülen|Maschine,,,Home|Kitchen
+dishwasher detergent,s,Geschirrspülmittel,n,-,Geschirr|spülen|Mittel,,,Home|Kitchen
 doctor,s,Arzt,m,ä-e,,,,Medicine|Health
 doctor,s,Ärztin,f,nen,,,,Medicine|Health
 doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
@@ -157,9 +182,13 @@ donkey,s,Esel,m,-,,,,Animal|Mammal
 double blind,sing,Doublebind,n,sing,Double|blind,,,Medicine|Psychology|Math|Statistics|Science
 dove,s,Taube,f,n,,,,Animal|Bird
 dragonfly,dragonflies,Libelle,f,n,,,,Animal|Insect
+drain,s,Abfluss,m,ü-e,ab|Fluss,,,Home|Kitchen
+drawer,s,Schublade,f,n,schuben|Lade,,,Home|Kitchen
 dress,es,Kleid,n,er,,,,Apparel
 duck,s,Ente,f,n,,,,Animal|Bird
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
+dustpan,s,Kehrschaufel,f,n,kehren|Schaufel,,,Home|Kitchen
+dustpan brush,es,Handfeger,m,-,Hand|fegen,,,Home|Kitchen
 eagle,s,Adler,m,-,,,,Animal|Bird
 ear,s,Ohr,n,en,,,,
 earache,s,Ohrenschmerz,m,en,Ohr|Schmerz,,,Medicine|Health|Disease
@@ -182,6 +211,7 @@ eyebrow,s,Augenbraue,f,n,Auge,,,Anatomy
 falcon,s,Falke,f,n,,,,Animal|Bird
 false scorpion,s,Pseudoskorpione,f,n,Pseudo|Skorpione,,,Animal|Spider
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
+faucet,s,Wasserhahn,m,ä-e|en,Wasser|Hahn,,,Home|Kitchen
 ferret,s,Frettchen,n,-,,,,Animal|Mammal
 filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
 finch,es,Fink,m,en,,,,Animal|Bird
@@ -200,15 +230,21 @@ fool,s,Närrin,f,nen,,,,Aptitude
 foot,feet,Fuß,m,ü-e,,,,Anatomy
 forearm,s,Unterarm,m,e,unter|Arm,,,Anatomy
 forehead,s,Stirn,f,en,,,,Anatomy
+fork,s,Gabel,f,n,,,,Home|Kitchen
 fox,es,Fuchs,m,ü-e,,,,Animal|Mammal
 fracture,s,Knochenbruch,m,ü-e,Knochen|Bruch,,,Medicine|Health
+freezer,s,Tiefkühlschrank,m,ä-e,tief|kühl|Schrank,,,Home|Kitchen
 frock,s,Kittel,m,-,,,,Apparel
 frog,s,Frosch,m,ö-e,,,,Animal|Amphibian
 front desk,s,Rezeption,f,en,,,,Medicine|Health|Office
+fruit basket,s,Früchtekorb,m,ö-e,Frucht|Korb,,,Home|Kitchen
 fruit fly,fruit flies,Fruchtfliege,f,n,Frucht|Fliege,,,Animal|Insect
 frustration,sing,Frust,m,sing,,,,Psychology|Emotion
+funnel,s,Küchentrichter,m,-,Küche|Trichter,,,Home|Kitchen
 funnel weaver,s,Trichterspinne,f,n,Trichter|Spinne,,,Animal|Spider
 funny bone,s,Narrenbein,n,e,Narr|Bein,,,Anatomy
+garbage disposal,s,Müllabfuhr,f,en,Müll|Abfuhr,,,Home|Kitchen
+garlic press,es,Knoblauchpresse,f,n,Knoblauch|Presse,,,Home|Kitchen
 garter snake,s,Strumpfbandnatter,f,n,Strumpf|Band|Natter,,,Animal|Reptile|Snake
 gecko,s,Gecko,m,s,,,,Animal|Reptile|Lizard
 genius,es,Genie,n,s,,,,Aptitude
@@ -216,6 +252,7 @@ gerbil,s,Wüstenrennmaus,f,ä-e,Wüsten|rennen|Maus,,,Animal|Mammal
 gibbon,s,Gibbon,m,-,,,,Animal|Mammal
 gibbon,s,Langarmaffe,m,n,lang|Arm|Affe,,,Animal|Mammal
 Giraffe,s,Giraffe,f,n,,,,Animal|Mammal
+glass,es,Glas,n,ä-er,,,,Home|Kitchen
 glasses,pl,Brille,f,n,,,,Apparel
 glove,s,Hanschuh,m,e,Hand|Schuh,,,Apparel
 gnu,s,Gnu,n,s,,,,Animal|Mammal
@@ -226,6 +263,7 @@ goshawk,s,Habicht,m,e,,,,Animal|Bird
 grackle,s,Stärling,m,e,,,,Animal|Bird
 grasshopper,s,Grashüpfer,m,-,Gras|hüpfen,,,Animal|Insect
 grasshopper,,Heuschrecke,f,n,Heu|Schrecken,,,Animal|Insect
+grater,s,Reibe,f,n,,,,Home|Kitchen
 ground sac spider,s,Glattbeinspinne,f,n,glatt|Bein|Spinne,,,Animal|Spider
 ground spider,s,Plattbauchspinne,f,n,platt|Bauch|Spinne,,,Animal|Spider
 groundhog,s,Murmeltier,n,e,murmeln|Tier,,,Animal|Mammal
@@ -293,22 +331,31 @@ jay,s,Häher,m,-,,,,Animal|Bird
 jewelry,pl,Schmuck,m,pl,,,,Jewelry
 joy,sing,Freude,f,sing,,,,Psychology|Emotion|Trait
 joy,sing,Glück,n,sing,,,,Psychology|Emotion|Trait
+juicer,s,Fruchtpresse,f,n,Frucht|Presse,,,Home|Kitchen
 jumping spider,s,Springspinne,f,n,springen|Spinne,,,Animal|Spider
 kangaroo,s,Känguru,m,s,,,,Animal|Mammal
+kettle,s,Teekessel,m,-,Tee|Kessel,,,Home|Kitchen
 kidney,s,Niere,f,n,,,,Anatomy
 kidney disease,s,Nierenerkrankung,f,en,Niere|Erkrankung,,,Medicine|Health|Disease
 king cobra,s,Königskobra,f,s,König|Kobra,,,Animal|Reptile|Snake
+kitchen,s,Küche,f,n,,,,Home|Kitchen
+kitchen chair,s,Küchenstuhl,m,ü-e,Küche|Stuhl,,,Home|Kitchen
+kitchen table,s,Küchentisch,m,e,Küche|Tisch,,,Home|Kitchen
 knee,s,Knie,n,-,,,,Anatomy
+knife,knives,Messer,n,-,,,,Home|Kitchen
+knife sharpener,s,Messerschärfer,m,-,Messer|Schärfer,,,Home|Kitchen
 koala,s,Koala,m,s,,,,Animal|Mammal
 koala,s,Koalabär,m,en,Koala|Bär,,,Animal|Mammal
 Komodo dragon,s,Komodowaran,m,e,Komodo|Waran,,,Animal|Reptile|Lizard
 lab coat,s,Kittel,m,-,,,,Apparel
 laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
 lace-weaver spider,s,Finsterspinne,f,n,finster|Spinne,,,Animal|Spider
+ladle,s,Kelle,f,n,,,,Home|Kitchen
 ladybug,s,Glückskäfer,m,-,Glück|Käfer,,,Animal|Insect
 lark,s,Lerche,f,n,,,,Animal|Bird
 larva,e|s,Larve,f,n,,,,Animal|Insect
 laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
+Lazy Susan,s,Plattenteller,m,-,Platte|Teller,,,Home|Kitchen
 lemming,s,Lemming,m,e,,,,Animal|Mammal
 lemur,s,Lemur,m,s,,,,Animal|Mammal
 lemur,s,Maki,m,s,,,,Animal|Mammal
@@ -334,6 +381,8 @@ mania,sing,Wahnsinn,m,sing,Wahn|Sinn,,,Medicine|Health|Psychology|Sociology
 mayfly,mayflies,Eintagsfliege,f,n,ein|Tag|Fliege,,,Animal|Insect
 mean,s,Durchschnitt,m,e,durch|schnitten,,,Medicine|Psychology|Math|Statistics|Science
 mean,s,Durchschnittswert,m,e,durch|schnitten|Wert,,,Medicine|Psychology|Math|Statistics|Science
+measuring cup,s,Messbecher,m,-,messen|Becher,,,Home|Kitchen
+measuring spoon,s,Messlöffel,m,-,messen|Löffel,,,Home|Kitchen
 medicine,s,Medizin,f,en,,,,Medicine|Health
 medicine,s,Arzneimittel,n,-,Arznei|Mittel,,,Medicine|Health
 medicine,s,Arznei,n,-,,,,Medicine|Health|Pharmacy
@@ -346,9 +395,11 @@ membership dues,pl,Mitgliedgebühren,f,pl,Mitglied|Gebühr,,,Social|Organization
 membership fee,s,Mitgliedgebühr,f,en,Mitglied|Gebühr,,,Social|Organization
 memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
 mesh-weaver,s,Kräuselspinne,f,n,kraus|Spinnen,,,Animal|Spider
+microwave,s,Mikrowelle,f,n,Mikro|Welle,,,Home|Kitchen
 millipede,s,Tausendfüßer,m,-,tausend|Fuß,,,Animal|Insect
 mite,s,Milbe,f,n,,,,Animal|Spider
 mitten,s,Fäustling,m,e,,,,Apparel
+mixer,s,Mixgerät,n,e,Mix|Gerät,,,Home|Kitchen
 mobile phone,s,Handy,n,s,,,,Accessory|Technology|Communications
 mockingbird,s,Spottdrossel,f,n,Spott|Drossel,,,Animal|Bird
 mole,s,Maulwurf,m,ü-e,,,,Animal|Mammal
@@ -359,6 +410,7 @@ monkey,s,Affe,m,n,,,,Animal|Mammal
 monkey,s,Äffin,f,nen,,,,Animal|Mammal
 monocle,s,Monokel,n,-,,,,Apparel
 moose,-,Elch,m,e,,,,Animal|Mammal
+mop,s,Bodenwischer,m,-,Boden|Wischer,,,Home|Kitchen
 mosquito,es|s,Mücke,f,n,,,,Animal|Insect
 moth,s,Motte,f,n,,,,Animal|Insect
 motorcycle,s,Motorrad,n,ä-er,"Motor,Rad",,,Sport|Transportation
@@ -368,6 +420,7 @@ mouth,s,Mund,m,ü-er,,,,Anatomy
 movement,s,Bewegung,f,en,,,,Political|Social
 mule,s,Maultier,n,e,Maul|Tier,,,Animal|Mammal
 muscle,s,Muskel,m,n,,,,Anatomy
+napkin,s,Serviette,f,n,,,,Home|Kitchen
 neanderthal,s,Neandertaler,m,-,,,,Animal|Mammal
 necklace,s,Halskette,f,n,Hals|Kette,,,Jewelry
 nervous breakdown,s,Nervenzusammenbruch,m,ü-e,Nerven|zusammen|Bruch,,,Medicine|Health|Psychology
@@ -387,6 +440,7 @@ osprey,s,Fischadler,m,-,Fisch|Adler,,,Animal|Bird
 otter,s,Otter,m,-,,,,Animal|Mammal
 owl,s,Eule,f,n,,,,Animal|Bird
 ox,en,Ochse,m,n,,,,Animal|Mammal
+pan,s,Pfanne,f,n,,,,Home|Kitchen
 pancreas,es,Pankreas,n,sing,,,,Anatomy
 panda,s,Panda,m,s,,,,Animal|Mammal
 panda,s,Bambusbär,m,en,Bambus|Bär,,,Animal|Mammal
@@ -404,6 +458,7 @@ pathologist,s,Pathologin,f,nen,,,,Medicine|Health|Profession
 pathology,pathologies,Pathologie,f,n,,,,Medicine|Health|Psychology
 pediatrician,s,Kinderarzt,m,ä-e,,,,Medicine|Health|Profession
 pediatrician,s,Kinderärztin,f,nen,,,,Medicine|Health|Profession
+peeler,s,Schäler,m,-,,,,Home|Kitchen
 pelican,s,Pelikan,m,e,,,,Animal|Bird
 penis,es,Penis,m,Penes,,,,Anatomy|Sexuality
 pharmacy,pharmacies,Apotheke,f,n,,,,Medicine|Health
@@ -411,12 +466,17 @@ pheasant,s,Fasan,m,e,,,,Animal|Bird
 phobia,s,Phobie,f,n,,,,Medicine|Health|Psychology
 pig,s,Schwein,n,e,,,,Animal|Mammal
 pigeon,s,Taube,f,n,,,,Animal|Bird
+pizza cutter,s,Pizzaschneider,m,-,Pizza|Schneider,,,Home|Kitchen
 placebo,es,Placebo,n,s,,,,Medicine|Psychology|Math|Statistics|Science
+plate,s,Teller,m,-,,,,Home|Kitchen
+platter,s,Servierplatte,f,n,servieren|Platte,,,Home|Kitchen
 platypus,es,Schnabeltier,n,e,Schnabel|Tier,,,Animal|Mammal
 plover,s,Regenpfeifer,m,-,Regen|Pfeifer,,,Animal|Bird
 polar bear,s,Eisbär,m,en,Eis|Bär,,,Animal|Mammal
 porcupine,s,Stachelschwein,n,e,Stachel|Schwein,,,Animal|Mammal
 porpoise,s,Schweinswal,m,e,Schwein|Wal,,,Animal|Mammal
+pot,s,Topf,m,ö-e,,,,Home|Kitchen
+potholder,s,Ofenhandschuh,m,e,Ofen|Hand|Schuh,,,Home|Kitchen
 Praying Mantid,s,Gottesanbeterin,f,nen,Gott|Anbeter,,,Animal|Insect
 prescription,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 prescription,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
@@ -435,12 +495,14 @@ raccoon,s,Waschbär,m,en,waschen|Bär,,,Animal|Mammal
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 rat,s,Ratte,f,,,,,Animal|Mammal
 rattlesnake,s,Klapperschlange,f,n,Klapper|Schlange,,,Animal|Reptile|Snake
+refrigerator,s,Kühlschrank,m,ä-e,kühl|Schrank,,,Home|Kitchen
 retina,s,Netzhaut,f,ä-e,Netz|Haut,,,Medicine|Health|Anatomy
 rhinoceros,es,Nashorn,n,ö-er,Nase|Horn,,,Animal|Mammal
 rib,s,Rippe,f,n,,,,Anatomy
 ribcage,s,Brustkorb,m,ö-e,Brust|Korb,,,Anatomy
 ring,s,Ring,m,e,,,,Jewelry
 robin,s,Rotkehlchen,n,-,rot|Kelch,,,Animal|Bird
+rolling pin,s,Teigrolle,f,n,Teig|Rolle,,,Home|Kitchen
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 running crab spider,s,Laufspinne,f,n,laufen|Spinne,,,Animal|Spider
@@ -454,6 +516,7 @@ sauna,s,Sauna,f,en|s,,,,Gym
 scale,s,Waage,f,n,,,,Medicine|Health|Equipment
 scarf,haeadscarves,Halstuch,n,ü-er,Hals|Tuch,,,Apparel
 schizophrenia,s,Schizophrenie,f,n,,,,Medicine|Health|Disease|Psychology
+scoop,s,Schöpfkelle,f,n,schöpfen|Kelle,,,Home|Kitchen
 script,s,Verschreibung,f,en,,,,Medicine|Health|Pharmacy
 script,s,Rezept,n,e,,,,Medicine|Health|Pharmacy
 scrubs,pl,OP-Bekleidung ,f,sing,Kleidung,,,Medicine|Health
@@ -463,8 +526,11 @@ seal,s,Seehund,m,e,See|Hund,,,Animal|Mammal
 self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|Health|Psychology
 self-esteem,sing,Selbstwertgefühl,n,sing,selbst|Wert|Gefühl,,,Psychology|Trait
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
+shears,s,Küchenschere,f,n,Küche|Schere,,,Home|Kitchen
 sheep,-,Schaf,n,e,,,,Animal|Mammal
 sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
+shelf,shelves,Bord,n,e,,,,Home|Kitchen
+shelf,shelves,Regal,n,e,,,,Home|Kitchen
 shinbone,s,Schienbein,n,e,Schien|Bein,,,Anatomy
 shirt,s,Hemd,n,en,,,,Apparel
 shoe,s,Schuh,m,e,,,,Apparel
@@ -472,6 +538,10 @@ shot,s,Spritze,f,n,,,,Medicine|Health
 shoulder,s,Schulter,f,n,,,,Anatomy
 shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
+sink,s,Spülbecken,n,-,spülen|Becken,,,Home|Kitchen
+sink,s,Spüle,f,n,,,,Home|Kitchen
+skewer,s,Bratspieß,m,e,braten|Spieß,,,Home|Kitchen
+skillet,s,Bratpfanne,f,n,braten|Pfanne,,,Home|Kitchen
 skirt,s,Rock,m,ö,,,,Apparel
 skunk,s,Stinktier,n,e,stinken|Tier,,,Animal|Mammal
 sleeve,s,Ärmel,m,-,,,,Apparel
@@ -484,10 +554,15 @@ soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
 sock,s,Socke,f,n,,,,Apparel
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
 sparrow,s,Sperling,m,e,,,,Animal|Bird
+spatula,s,Pfannenwender,m,-,Pfanne|wenden,,,Home|Kitchen
+spatula,s,Spachtel,f,n,,,,Home|Kitchen
+spice rack,s,Gewürzbord,n,e,Gewürz|Bord,,,Home|Kitchen
 spider,s,Spinne,f,n,,,,Animal|Spider
 spitting spider,s,Speispinne,f,n,speien|Spinne,,,Animal|Spider
 spleen,s,Milz,f,en,,,,Anatomy
 splint,s,Schiene,f,n,,,,Medicine|Health
+sponge,s,Schwamm,m,ä-e,,,,Home|Kitchen
+spoon,s,Löffel,m,-,,,,Home|Kitchen
 squad,s,Mannschaft,f,en,,,,Sport
 squirrel,s,Eichhörnchen,n,-,,,,Animal|Mammal
 standard deviations,s,Normalabweichung,f,en,Normal|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
@@ -497,10 +572,13 @@ stent,s,Stent,m,s,,,,Medicine|Health
 sternum,s,Brustbein,n,e,Brust|Bein,,,Anatomy
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
 stink bug,s,Stinkwanze,f,n,Stink|Wanze ,,,Animal|Insect
+stirrer,s,Rührer,m,-,,,,Home|Kitchen
 stocking,s,Strumpf,m,ü,,,,Apparel
 stomacache,sing,Bauchschmerz,m,sing,Bauch|Schmerz,,,Medicine|Health|Disease
 stomach,s,Magen,m,ä,,,,Anatomy
 stork,s,Storch,m,ö-e,,,,Animal|Bird
+stove,s,Herd,m,e,,,,Home|Kitchen
+stove,s,Ofen,m,ö,,,,Home|Kitchen
 stress,es,Belastung,f,en,,,,Psychology|Trait
 stretcher,s,Trage,f,n,tragen,,,Medicine|Health
 stroke,s,Schlaganfall,m,ä-e,Schlag|Anfall,,,Medicine|Health|Disease
@@ -511,6 +589,7 @@ swab,s,Abstrich,m,e,Strich,,,Medicine|Health
 swallow,s,Schwalbe,f,n,,,,Animal|Bird
 swan,s,Schwan,m,ä-e,,,,Animal|Bird
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
+tablecloth,es|s,Tischdecke,f,n,Tisch|Decke,,,Home|Kitchen
 tarantula,s,Tarantel,f,n,,,,Animal|Spider
 teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
 team,s,Mannschaft,f,en,,,,Sport
@@ -531,6 +610,7 @@ tiger,s,Tiger,m,-,,,,Animal|Mammal
 tit,s,Meise,f,n,,,,Animal|Bird
 titmouse,s,Meise,f,n,,,,Animal|Bird
 toad,s,Kröte,f,n,,,,Animal|Amphibian
+toaster,s,Toaster,m,-,,,,Home|Kitchen
 toe,s,Zeh,m,e,,,,Anatomy
 toenail,s,Fußnagel,m,ä,Fuß|Nagel,,,Anatomy
 tongue,s,Zunge,f,n,,,,Anatomy
@@ -540,7 +620,9 @@ toothache,sing,Zahnschmerz,m,en,Zahn|Schmerz,,,Medicine|Health|Disease
 toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
 tortoise,s,Schildkröte,f,n,Schild|Kröte,,,Animal|Reptile
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
+towel,s,Tuch,n,ü-er|e,,,,Home|Kitchen
 towel dispenser,s,Handtuchautomat,m,en,Hand|Tuch|Automat,,,Hygiene|Gym|Bath
+trash can,s,Mülleimer,m,-,Müll|Eimer,,,Home|Kitchen
 treadmill,s,Laufband,n,ä-er,laufen|Band,,,Health|Fitness|Gym
 treadmill,s,Tretmühle,f,n,treten|Mühle,,,Health|Fitness|Gym
 treatment,s,Behandlung,f,en,,,,Medicine|Health
@@ -548,6 +630,7 @@ treatment table,s,Behandlungstisch,m,e,Behandlung|Tisch,,,Medicine|Health|Equipm
 trousers,pl,Hose,f,n,,,,Apparel
 t-shirt,s,T-shirt,n,s,,,,Apparel
 tumor,s,Tumor,m,s|en,,,,Medicine|Health|Disease
+turntable,s,Plattenteller,m,-,Platte|Teller,,,Home|Kitchen
 turtle,s,Schildkröte,f,n,Schild|Kröte,,,Animal|Reptile
 understanding,sing,Verstand,m,sing,,,,Aptitude
 underwear,-,Unterwäsche,f,n,unter|Wäsche,,,Apparel
@@ -571,6 +654,8 @@ weasel,s,Wiesel,n,-,,,,Animal|Mammal
 weevil,s,Rüsselkäfer,m,-,Rüssel|Käfer,,,Animal|Insect
 whale,s,Wal,m,e,,,,Animal|Mammal
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
+whisk,s,Schaumschläger,m,-,Schaum|Schläger,,,Home|Kitchen
+wok,s,Wok,m,s,,,,Home|Kitchen
 wolf,wolves,Wolf,m,ö-e,,,,Animal|Mammal
 wolf spider,s,Wolfspinne,f,n,Wolf|Spinne,,,Animal|Spider
 wombat,s,Wombat,m,s,,,,Animal|Mammal
