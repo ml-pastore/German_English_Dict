@@ -39,6 +39,10 @@ baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
 baster,s,Bratensaftspritze,f,n,Braten|Saft|Spritze,,,Home|Kitchen
 bat,s,Fledermaus,f,ä-e,-|Maus,,,Animal|Mammal
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
+bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Home|Bathroom
+bathroom,s,Badezimmer,n,-,Bad|Zimmer,,,Home|Bathroom
+bathroom tissue,sing,Klopapier,n,-,Klo|Papier,,,Home|Bathroom
+bathtub,s,Badewanne,f,n,Bad|Wanne,,,Home|Bathroom
 bear,s,Bär,m,en,,,,Animal|Mammal
 beaver,s,Biber,m,-,,,,Animal|Mammal
 bed bug,s,Bettwanze,f,n,Bett|Wanze,,,Animal|Insect
@@ -158,6 +162,7 @@ cuckoo,s,Kuckuck,m,e,,,,Animal|Bird
 cuff,s,Manschette,f,n,,,,Apparel
 cup,s,Tasse,f,n,,,,Home|Kitchen
 cupboard,s,Küchenschrank,m,ä-e,Küche|Schrank,,,Home|Kitchen
+curler,s,Lockenwickler,m,-,Locke|wicklen,,,Home|Bathroom|Beauty
 cut,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health
 cutting board,s,Schneidebrett,n,e,schneiden|Brett,,,Home|Kitchen
 daddy long legs,pl,Weberknecht,m,e,Weber|Knecht,,,Animal|Spider
@@ -208,6 +213,7 @@ examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
 eye,s,Auge,n,n,,,,Anatomy
 eyebrow,s,Augenbraue,f,n,Auge,,,Anatomy
+face cloth,s,Waschlappen,m,-,waschen|Lappen,,,Home|Bathroom|Hygiene
 falcon,s,Falke,f,n,,,,Animal|Bird
 false scorpion,s,Pseudoskorpione,f,n,Pseudo|Skorpione,,,Animal|Spider
 faucet,s,Zapfhahn,m,ä-e|en,Zapfen|Hahn,,,Kitchen|Bath
@@ -222,6 +228,7 @@ fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 flamingo,s,Flamingo,m,s,,,,Animal|Bird
 flea,s,Floh,m,ö-e,,,,Animal|Insect
+floss,es,Zahnseide,f,n,Zahn|Seide,,,Home|Bathroom|Hygiene
 flu,s,Grippe,f,n,,,,Medicine|Health|Disease
 fly,flies,Fliege,f,n,,,,Animal|Insect
 foam roller,s,Schaumstoffrolle,f,n,Schaum|Stoff|Rolle,,,Health|Fitness|Gym
@@ -276,6 +283,7 @@ gym shorts,pl,Turnhose,f,n,turnen|Hose,,,Health|Fitness|Gym|Sport
 gym teacher,s,Sportlehrer,m,-,Sport|Lehrer,,,Health|Fitness|Gym
 gym teacher,s,Sportlehrerin,f,nen,Sport|Lehrerin,,,Health|Fitness|Gym
 hair,s,Haar,n,e,,,,Anatomy
+hairbrush,s,Haarbürste,f,n,Haar|Bürste,,,Home|Bathroom
 half-wit,s,Tor,m,en,,,,Aptitude
 hallucination,s,Halluzination,f,n,,,,Medicine|Health|Psychology
 hamster,s,Hamster,m,-,,,,Animal|Mammal
@@ -397,6 +405,7 @@ memory,memories,Gedächtnis,n,se,,,,Psychology|Aptitude
 mesh-weaver,s,Kräuselspinne,f,n,kraus|Spinnen,,,Animal|Spider
 microwave,s,Mikrowelle,f,n,Mikro|Welle,,,Home|Kitchen
 millipede,s,Tausendfüßer,m,-,tausend|Fuß,,,Animal|Insect
+mirror,s,Spiegel,m,-,,,,Home|Bathroom
 mite,s,Milbe,f,n,,,,Animal|Spider
 mitten,s,Fäustling,m,e,,,,Apparel
 mixer,s,Mixgerät,n,e,Mix|Gerät,,,Home|Kitchen
@@ -420,6 +429,7 @@ mouth,s,Mund,m,ü-er,,,,Anatomy
 movement,s,Bewegung,f,en,,,,Political|Social
 mule,s,Maultier,n,e,Maul|Tier,,,Animal|Mammal
 muscle,s,Muskel,m,n,,,,Anatomy
+nail clipper,s,Nagelknipser,m,-,Nagel|knipsen,,,Home|Bathroom|Hygiene
 napkin,s,Serviette,f,n,,,,Home|Kitchen
 neanderthal,s,Neandertaler,m,-,,,,Animal|Mammal
 necklace,s,Halskette,f,n,Hals|Kette,,,Jewelry
@@ -495,6 +505,7 @@ raccoon,s,Waschbär,m,en,waschen|Bär,,,Animal|Mammal
 rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 rat,s,Ratte,f,,,,,Animal|Mammal
 rattlesnake,s,Klapperschlange,f,n,Klapper|Schlange,,,Animal|Reptile|Snake
+razor,s,Rasierapparat,n,e,Rasierer|Apparat,,,Home|Bathroom
 refrigerator,s,Kühlschrank,m,ä-e,kühl|Schrank,,,Home|Kitchen
 retina,s,Netzhaut,f,ä-e,Netz|Haut,,,Medicine|Health|Anatomy
 rhinoceros,es,Nashorn,n,ö-er,Nase|Horn,,,Animal|Mammal
@@ -526,6 +537,8 @@ seal,s,Seehund,m,e,See|Hund,,,Animal|Mammal
 self-confidence,sing,Selbstbewusstsein,n,sing,Selbst|bewusst|sein ,,,Medicine|Health|Psychology
 self-esteem,sing,Selbstwertgefühl,n,sing,selbst|Wert|Gefühl,,,Psychology|Trait
 shampoo,s,Shampoo,n,s,,,,Bath|Gym
+shampoo,s,Shampoo,n,s,,,,Home|Bathroom|Hygiene
+shaving cream,s,Rasiercreme,f,s,Rasierer|Creme,,,Home|Bathroom
 shears,s,Küchenschere,f,n,Küche|Schere,,,Home|Kitchen
 sheep,-,Schaf,n,e,,,,Animal|Mammal
 sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
@@ -537,7 +550,10 @@ shoe,s,Schuh,m,e,,,,Apparel
 shot,s,Spritze,f,n,,,,Medicine|Health
 shoulder,s,Schulter,f,n,,,,Anatomy
 shower,s,Dusche,f,n,,,,Hygiene|Gym|Bath
+shower,s,Dusche,f,n,,,,Home|Bathroom
 shower curtain,s,Duschvorhang,m,ä-e,Dusche|Vorhang,,,Hygiene|Gym|Bath
+shower curtain,s,Duschvorhang,m,ä-e,duschen|Vorhang,,,Home|Bathroom
+shower head,s,Duschkopf,m,ö-e,duschen|Kopf,,,Home|Bathroom|Hygiene
 sink,s,Spülbecken,n,-,spülen|Becken,,,Home|Kitchen
 sink,s,Spüle,f,n,,,,Home|Kitchen
 skewer,s,Bratspieß,m,e,braten|Spieß,,,Home|Kitchen
@@ -551,6 +567,7 @@ sneak spider,s,Sechsaugenspinne,f,n,Sechs|Auge|Spinne,,,Animal|Spider
 sneaker,s,Turnschuh,m,en,turnen|Schuh,,,Health|Fitness|Gym
 snipe,s,Schnepfe,f,n,,,,Animal|Bird
 soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
+soap,s,Seife,f,n,,,,Home|Bathroom|Hygiene
 sock,s,Socke,f,n,,,,Apparel
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
 sparrow,s,Sperling,m,e,,,,Animal|Bird
@@ -590,6 +607,7 @@ swallow,s,Schwalbe,f,n,,,,Animal|Bird
 swan,s,Schwan,m,ä-e,,,,Animal|Bird
 sweat,sing,Schweiß ,m,sing,,,,Health|Fitness|Gym
 tablecloth,es|s,Tischdecke,f,n,Tisch|Decke,,,Home|Kitchen
+tampon,s,Tampon,m,s,,,,Home|Bathroom|Hygiene
 tarantula,s,Tarantel,f,n,,,,Animal|Spider
 teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
 team,s,Mannschaft,f,en,,,,Sport
@@ -613,11 +631,15 @@ toad,s,Kröte,f,n,,,,Animal|Amphibian
 toaster,s,Toaster,m,-,,,,Home|Kitchen
 toe,s,Zeh,m,e,,,,Anatomy
 toenail,s,Fußnagel,m,ä,Fuß|Nagel,,,Anatomy
+toilet,s,Toilette,f,n,,,,Home|Bathroom
+toilet paper,sing,Klopapier,n,-,Klo|Papier,,,Home|Bathroom
 tongue,s,Zunge,f,n,,,,Anatomy
 tonsil,s,Mandel,f,n,,,,Anatomy
 tooth,teeth,Zahn,m,ä-e,,,,Anatomy
 toothache,sing,Zahnschmerz,m,en,Zahn|Schmerz,,,Medicine|Health|Disease
 toothache,sing,Zahnweh,m,sing,Zahn|weh,,,Medicine|Health|Disease
+toothbrush,es,Zahnbürste,f,n,Zahn|Bürste,,,Home|Bathroom|Hygiene
+toothpaste,s,Zahnpasta,f,Zahnpasten,Zahn|Pasta,,,Home|Bathroom|Hygiene
 tortoise,s,Schildkröte,f,n,Schild|Kröte,,,Animal|Reptile
 towel,s,Tuch,n,ü-er,,,,Hygiene|Gym|Bath
 towel,s,Tuch,n,ü-er|e,,,,Home|Kitchen
@@ -632,8 +654,10 @@ t-shirt,s,T-shirt,n,s,,,,Apparel
 tumor,s,Tumor,m,s|en,,,,Medicine|Health|Disease
 turntable,s,Plattenteller,m,-,Platte|Teller,,,Home|Kitchen
 turtle,s,Schildkröte,f,n,Schild|Kröte,,,Animal|Reptile
+tweezer,s,Pinzette,f,n,,,,Home|Bathroom|Hygiene
 understanding,sing,Verstand,m,sing,,,,Aptitude
 underwear,-,Unterwäsche,f,n,unter|Wäsche,,,Apparel
+urinal,s,Urinal,n,e,,,,Home|Bathroom
 vagina,s,Scheide,f,n,,,,Anatomy
 variable,s,Variante,f,n,,,,Medicine|Psychology|Math|Statistics|Science
 variable,s,Variable,f,n,,,,Medicine|Psychology|Math|Statistics|Science
