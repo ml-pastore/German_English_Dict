@@ -30,6 +30,7 @@ aphasia,sing,Aphasie,f,sing,,,,Medicine|Health|Psychology
 aphid,s,Blattlaus,m,ä-e,Blatt|Laus,,,Animal|Insect
 arm,s,Arm,m,e,,,,Anatomy
 armadillo,s,Gürteltier,n,e,Gürtel|Tier,,,Animal|Mammal
+armchair,s,Sessel,m,-,,,,Home|Furniture
 baboon,s,Pavian,m,e,,,,Animal|Mammal
 backache,s,Rückenschmerz,m,en,Rücken|Schmerz,,,Medicine|Health|Disease
 badger,s,Dachs,m,e,,,,Animal|Mammal
@@ -96,6 +97,7 @@ camel,s,Kamel,n,e,,,,Animal|Mammal
 can opener,s,Büchsenöffner,m,-,Büchse|öffnen,,,Home|Kitchen
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 caribou,s,Karibu,n,s,,,,Animal|Mammal
+carpet,s,Teppich,m,e,,,,Home
 cast,s,Gips,m,e,,,,Medicine|Health
 cat,s,Katze,f,n,,,,Animal|Mammal
 caterpillar,s,Raupe,f,n,,,,Animal|Insect
@@ -145,6 +147,7 @@ cooking tongs,pl,Küchenzange,f,pl,Küchen|Zange,,,Home|Kitchen
 cooling rack,s,Kühlregal,n,e,kühl|Regal,,,Home|Kitchen
 copperhead,s,Kupferkopf,m,ö-e,Kupfer|Kopf,,,Animal|Reptile|Snake
 cotton ball,s,Wattebällchen,n,-,Watte|Ball,,,Medicine|Health
+couch,es,Sofa,n,s,,,,Home|Furniture
 cougar,s,Kuguar,m,s,,,,Animal|Mammal
 counter top,s,Tischplatte,m,e,Tisch|Platte,,,Home|Kitchen
 cow,s,Kuh,f,ü-e,,,,Animal|Mammal
@@ -208,6 +211,7 @@ elbow,s,Ellbogen,m,-,,,,Anatomy
 elephant,s,Elefant,m,en,,,,Animal|Mammal
 elk,s,Elch,m,e,,,,Animal|Mammal
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
+end table,s,Beistelltisch,m,e,bei|stellen|Tisch,,,Home|Furniture
 examination room,s,Untersuchungszimmer,n,-,Untersuchung|Zimmer,,,Medicine|Health
 examination table,s,Untersuchungstisch,m,e,Untersuchung|Tisch,,,Medicine|Health|Equipment
 exercise,s,Bewegung,f,en,,,,Sport|Fitness|Health
@@ -223,6 +227,7 @@ filling,s,Zahnfüllung,f,en,Zahn|Füllung,,,Medicine|Health|Disease|Dentistry
 finch,es,Fink,m,en,,,,Animal|Bird
 finger,s,Finger,m,-,,,,Anatomy
 fingernail,s,Fingernagel,m,ä,Finger|Nagel,,,Anatomy
+fireplace,s,Kamin,m,e,,,,Home
 fisher spider,s,Raubspinne,f,n,Raub|Spinne,,,Animal|Spider
 fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
@@ -372,6 +377,7 @@ lion,s,Löwe,m,n,,,,Animal|Mammal
 lioness,es,Löwin,f,nen,,,,Animal|Mammal
 lip,s,Lippe,f,n,,,,Anatomy
 liver,s,Leber,f,n,,,,Anatomy
+living room,s,Wohnzimmer,n,-,wohnen|Zimmer,,,Home|Furniture
 lizard,s,Eidechse,f,n,Eid|Echse,,,Animal|Reptile|Lizard
 llama,s,Lama,n,s,,,,Animal|Mammal
 lobotomy,lobotomies,Lobotomie,f,n,,,,Medicine|Health|Psychology
@@ -450,6 +456,7 @@ osprey,s,Fischadler,m,-,Fisch|Adler,,,Animal|Bird
 otter,s,Otter,m,-,,,,Animal|Mammal
 owl,s,Eule,f,n,,,,Animal|Bird
 ox,en,Ochse,m,n,,,,Animal|Mammal
+painting,s,Gemälde,n,-,,,,Home|Museum
 pan,s,Pfanne,f,n,,,,Home|Kitchen
 pancreas,es,Pankreas,n,sing,,,,Anatomy
 panda,s,Panda,m,s,,,,Animal|Mammal
@@ -506,7 +513,9 @@ rash,s,Hautausschlag,m,ä-e,Haut|schlagen,,,Medicine|Health
 rat,s,Ratte,f,,,,,Animal|Mammal
 rattlesnake,s,Klapperschlange,f,n,Klapper|Schlange,,,Animal|Reptile|Snake
 razor,s,Rasierapparat,n,e,Rasierer|Apparat,,,Home|Bathroom
+recliner,s,Liegesessel,m,-,liegen|Sessel,,,Home|Furniture
 refrigerator,s,Kühlschrank,m,ä-e,kühl|Schrank,,,Home|Kitchen
+remote control,s,Fernbedienung,f,en,fern|bedienen,,,Home
 retina,s,Netzhaut,f,ä-e,Netz|Haut,,,Medicine|Health|Anatomy
 rhinoceros,es,Nashorn,n,ö-er,Nase|Horn,,,Animal|Mammal
 rib,s,Rippe,f,n,,,,Anatomy
@@ -612,6 +621,7 @@ tarantula,s,Tarantel,f,n,,,,Animal|Spider
 teal,s,Krickente,f,n,-|Ente,,,Animal|Bird
 team,s,Mannschaft,f,en,,,,Sport
 team,s,Team,n,s,,,,Sport|Organization
+television,s,Fernseher,m,-,fern|sehen,,,Home
 temperament,s,Temperament,n,sing,,,,Psychology|Emotion|Trait
 temperament,s,Wesenart,f,en,Wesen|Art,,,Psychology|Emotion|Trait
 termite,s,Termite,f,n,,,,Animal|Insect
@@ -679,6 +689,7 @@ weevil,s,Rüsselkäfer,m,-,Rüssel|Käfer,,,Animal|Insect
 whale,s,Wal,m,e,,,,Animal|Mammal
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 whisk,s,Schaumschläger,m,-,Schaum|Schläger,,,Home|Kitchen
+wingback chair,s,Ohrensessel,m,-,Ohr|Sessel,,,Home|Furniture
 wok,s,Wok,m,s,,,,Home|Kitchen
 wolf,wolves,Wolf,m,ö-e,,,,Animal|Mammal
 wolf spider,s,Wolfspinne,f,n,Wolf|Spinne,,,Animal|Spider
