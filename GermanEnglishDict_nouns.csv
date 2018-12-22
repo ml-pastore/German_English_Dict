@@ -46,7 +46,9 @@ bathroom tissue,sing,Klopapier,n,-,Klo|Papier,,,Home|Bathroom
 bathtub,s,Badewanne,f,n,Bad|Wanne,,,Home|Bathroom
 bear,s,Bär,m,en,,,,Animal|Mammal
 beaver,s,Biber,m,-,,,,Animal|Mammal
+bed,s,Bett,n,en,,,,Home|Hotel|Bedroom|Furniture
 bed bug,s,Bettwanze,f,n,Bett|Wanze,,,Animal|Insect
+bedroom,s,Schlafzimmer,n,-,Schlafen|Zimmer,,,Home|Hotel|Bedroom
 bee,s,Biene,f,n,,,,Animal|Insect
 beetle,s,Käfer,m,-,,,,Animal|Insect
 behavior,s,Verhalten,n,-,,,,Psychology|Trait|Sociology
@@ -84,6 +86,7 @@ bruise,s,Prellung,f,en,,,,Medicine|Health|Injury
 buck,s,Bock,m,ö-e,,,,Animal|Mammal
 buffalo,s,Büffel,m,-,,,,Animal|Mammal
 bug,s,Wanze,f,n,,,,Animal|Insect
+bureau,s,Kommode,f,n,,,,Home|Hotel|Bedroom|Furniture
 burner,s,Herdplatte,f,n,Herd|Platte,,,Home|Kitchen
 butter knife,knives,Buttermesser,n,-,Butter|Messer,,,Home|Kitchen
 butterfly,butterflies,Schmetterling,m,e,,,,Animal|Insect
@@ -123,6 +126,7 @@ chipmunk,s,Streifenhörnchen,n,-,Streifen|Hörnchen,,,Animal|Mammal
 cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 clitoris,es,Kitzler,m,-,,,,Anatomy|Sexuality
+closet,s,Wandschrank,m,ä-e,Wand|Schrank,,,Home|Hotel|Bedroom|Furniture
 coaster,s,Untersetzer,m,-,unter|setzen,,,Home|Kitchen
 cobra,s,Kobra,f,s,,,,Animal|Reptile|Snake
 cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
@@ -134,6 +138,7 @@ colander,s,Küchensieb,n,e,Küche|Sieb,,,Home|Kitchen
 cold,s,Erkältung,f,en,Kälte,,,Medicine|Health|Disease
 collar,s,Kragen,m,-,,,,Apparel
 collarbone,s,Schlüsselbein,n,e,Schlüssel|Bein,,,Anatomy
+comforter,s,Bettdecke,f,n,Bett|Decke,,,Home|Hotel|Bedroom
 common sense,sing,Menschenverstand,m,sing,,,,Aptitude
 concussion,s,Gehirnerschütterung,f,en,Gehirn|Erschütterung,,,Medicine|Health|Injury
 congestion,sing,Kongestion,f,sing,,,,Medicine|Health|Disease
@@ -365,6 +370,7 @@ laceration,s,Fleischwunde,f,n,Fleisch|Wunde,,,Medicine|Health|Injury
 lace-weaver spider,s,Finsterspinne,f,n,finster|Spinne,,,Animal|Spider
 ladle,s,Kelle,f,n,,,,Home|Kitchen
 ladybug,s,Glückskäfer,m,-,Glück|Käfer,,,Animal|Insect
+lamp,s,Lampe,f,n,,,,Home|Hotel|Bedroom|Furniture
 lark,s,Lerche,f,n,,,,Animal|Bird
 larva,e|s,Larve,f,n,,,,Animal|Insect
 laryngitis,sing,Kehlkopfentzündung,f,sing,Kehle|Kopf|Entzündung,,,Medicine|Health|Disease
@@ -392,6 +398,7 @@ mammogram,s,Mammographie,f,n,,,,Medicine|Health
 manatee,s,Manati,m,s,,,,Animal|Mammal
 mandrill,s,Mandrill,m,s,,,,Animal|Mammal
 mania,sing,Wahnsinn,m,sing,Wahn|Sinn,,,Medicine|Health|Psychology|Sociology
+mattress,es,Matratze,f,n,,,,Home|Hotel|Bedroom
 mayfly,mayflies,Eintagsfliege,f,n,ein|Tag|Fliege,,,Animal|Insect
 mean,s,Durchschnitt,m,e,durch|schnitten,,,Medicine|Psychology|Math|Statistics|Science
 mean,s,Durchschnittswert,m,e,durch|schnitten|Wert,,,Medicine|Psychology|Math|Statistics|Science
@@ -442,6 +449,7 @@ necklace,s,Halskette,f,n,Hals|Kette,,,Jewelry
 nervous breakdown,s,Nervenzusammenbruch,m,ü-e,Nerven|zusammen|Bruch,,,Medicine|Health|Psychology
 neurosis,neuroses,Neurose,f,n,,,,Medicine|Health|Psychology
 newt,s,Molch,m,e,,,,Animal|Amphibian
+night table,s,Nachttisch,m,e,Nacht|Tisch,,,Home|Hotel|Bedroom|Furniture
 nipple,s,Brustwarze,f,n,Brust|Warze,,,Anatomy
 nose ring,s,Nasenring,m,e,Nase|Ring,,,Jewelry
 nurse,s,Krankenschwester,f,n,Krankheit|Schwester,,,Medicine|Health|Profession
@@ -483,6 +491,7 @@ pheasant,s,Fasan,m,e,,,,Animal|Bird
 phobia,s,Phobie,f,n,,,,Medicine|Health|Psychology
 pig,s,Schwein,n,e,,,,Animal|Mammal
 pigeon,s,Taube,f,n,,,,Animal|Bird
+pillow,s,Kopfkissen,n,-,Kopf|Kissen,,,Home|Hotel|Bedroom
 pizza cutter,s,Pizzaschneider,m,-,Pizza|Schneider,,,Home|Kitchen
 placebo,es,Placebo,n,s,,,,Medicine|Psychology|Math|Statistics|Science
 plate,s,Teller,m,-,,,,Home|Kitchen
@@ -550,6 +559,7 @@ shampoo,s,Shampoo,n,s,,,,Home|Bathroom|Hygiene
 shaving cream,s,Rasiercreme,f,s,Rasierer|Creme,,,Home|Bathroom
 shears,s,Küchenschere,f,n,Küche|Schere,,,Home|Kitchen
 sheep,-,Schaf,n,e,,,,Animal|Mammal
+sheet,s,Bettlaken,n,-,Bett|Laken,,,Home|Hotel|Bedroom
 sheetweb weaver,s,Baldachinspinne,f,n,Baldachin|Spinne,,,Animal|Spider
 shelf,shelves,Bord,n,e,,,,Home|Kitchen
 shelf,shelves,Regal,n,e,,,,Home|Kitchen
@@ -579,6 +589,7 @@ soap,s,Seife,f,en,,,,Kitchen|Bath|Gym
 soap,s,Seife,f,n,,,,Home|Bathroom|Hygiene
 sock,s,Socke,f,n,,,,Apparel
 sore throat,s,Halsweh,n,sing,Hals|weh,,,Medicine|Health|Disease
+sound machine,s,Geräuschmaschine,f,n,Geräusch|Maschine,,,Home|Bedroom
 sparrow,s,Sperling,m,e,,,,Animal|Bird
 spatula,s,Pfannenwender,m,-,Pfanne|wenden,,,Home|Kitchen
 spatula,s,Spachtel,f,n,,,,Home|Kitchen
