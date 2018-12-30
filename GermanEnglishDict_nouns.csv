@@ -37,6 +37,7 @@ badger,s,Dachs,m,e,,,,Animal|Mammal
 bandage,s,Binde,f,n,,,,Medicine|Health
 band-aid,s,Pflaster,n,-,,,,Medicine|Health
 baseboard spider,s,Scheibennetzspinne,f,n,Scheibe|Netz|Spinne,,,Animal|Spider
+basement,s,Keller,m,-,,,,House|Building|Structure
 baster,s,Bratensaftspritze,f,n,Braten|Saft|Spritze,,,Home|Kitchen
 bat,s,Fledermaus,f,ä-e,-|Maus,,,Animal|Mammal
 bath towel,s,Badetuch,n,ü-er,Bad|Tuch,,,Hygiene|Gym|Bath
@@ -101,11 +102,13 @@ can opener,s,Büchsenöffner,m,-,Büchse|öffnen,,,Home|Kitchen
 cancer,s,Krebs,m,sing,,,,Medicine|Health|Disease
 caribou,s,Karibu,n,s,,,,Animal|Mammal
 carpet,s,Teppich,m,e,,,,Home
+carpet,s,Teppich,m,e,,,,House|Building|Structure
 cast,s,Gips,m,e,,,,Medicine|Health
 cat,s,Katze,f,n,,,,Animal|Mammal
 caterpillar,s,Raupe,f,n,,,,Animal|Insect
 catharsis,sing,Katharsis,f,sing,,,,Psychology|Sociology|Ethics|Religion
 cavity,cavities,Kavität,f,en,,,,Medicine|Health|Disease|Dentistry
+ceiling,s,Decke,f,n,,,,House|Building|Structure
 cellar spider,s,Zitterspinne,f,n,Zittern|Spinne,,,Animal|Spider
 centipede,s,Hundertfüßer,m,-,hundert|Fuß,,,Animal|Insect
 cerebral aneurysm,s,Gehirnaneurysma,n,Gehirnaneurysmen,Gehirn|Aneurysma,,,Medicine|Health|Disease
@@ -127,6 +130,7 @@ cholesterol,s,Cholesterin,n,e,,,,Medicine|Health
 clinic,s,Klinik,f,en,,,,Medicine|Health
 clitoris,es,Kitzler,m,-,,,,Anatomy|Sexuality
 closet,s,Wandschrank,m,ä-e,Wand|Schrank,,,Home|Hotel|Bedroom|Furniture
+closet,s,Kleiderschrank,m,ä-e,Kleider|Schrank,,,House|Building|Structure
 coaster,s,Untersetzer,m,-,unter|setzen,,,Home|Kitchen
 cobra,s,Kobra,f,s,,,,Animal|Reptile|Snake
 cobweb spider,s,Kugelspinne,f,n,Kugel|Spinne,,,Animal|Spider
@@ -192,12 +196,15 @@ doctors appointment,s,Arzttermin,m,e,Arzt|Termin,,,Medicine|Health
 dog,s,Hund,m,e,,,,Animal|Mammal
 dolphin,s,Delphin,m,e,,,,Animal|Mammal
 donkey,s,Esel,m,-,,,,Animal|Mammal
+door,s,Tür,f,en,,,,House|Building|Structure
+door handle,s,Türklinke,f,n,Tür|Klinke,,,House|Building|Structure
 double blind,sing,Doublebind,n,sing,Double|blind,,,Medicine|Psychology|Math|Statistics|Science
 dove,s,Taube,f,n,,,,Animal|Bird
 dragonfly,dragonflies,Libelle,f,n,,,,Animal|Insect
 drain,s,Abfluss,m,ü-e,ab|Fluss,,,Home|Kitchen
 drawer,s,Schublade,f,n,schuben|Lade,,,Home|Kitchen
 dress,es,Kleid,n,er,,,,Apparel
+driveway,s,Auffahrt,f,en,auf|fahren,,,House|Building|Structure
 duck,s,Ente,f,n,,,,Animal|Bird
 dumbbell,s,Hantel,f,n,,,,Health|Fitness|Gym
 dustpan,s,Kehrschaufel,f,n,kehren|Schaufel,,,Home|Kitchen
@@ -213,6 +220,7 @@ ego,s,Ich,n,s|-,,,,Psychology|Trait
 ego,s,Ego,n,s,,,,Psychology|Trait
 egret,s,Reiher,m,-,,,,Animal|Bird
 elbow,s,Ellbogen,m,-,,,,Anatomy
+electrical socket,s,Steckdose,f,n,Steck|Dose,,,House|Building|Structure
 elephant,s,Elefant,m,en,,,,Animal|Mammal
 elk,s,Elch,m,e,,,,Animal|Mammal
 emergency room,s,Notaufnahme ,f,en,,,,Medicine|Health
@@ -238,6 +246,7 @@ fitness band,s,Fitnessband,n,ä-er,Fitness|Band,,,Health|Fitness|Gym
 Fitness studio,s,Fitnessstudio,n,s,Fitness|Studio,,,Health|Fitness|Gym
 flamingo,s,Flamingo,m,s,,,,Animal|Bird
 flea,s,Floh,m,ö-e,,,,Animal|Insect
+floor,s,Fußboden,m,ö,Fuß|Boden,,,House|Building|Structure
 floss,es,Zahnseide,f,n,Zahn|Seide,,,Home|Bathroom|Hygiene
 flu,s,Grippe,f,n,,,,Medicine|Health|Disease
 fly,flies,Fliege,f,n,,,,Animal|Insect
@@ -260,6 +269,7 @@ frustration,sing,Frust,m,sing,,,,Psychology|Emotion
 funnel,s,Küchentrichter,m,-,Küche|Trichter,,,Home|Kitchen
 funnel weaver,s,Trichterspinne,f,n,Trichter|Spinne,,,Animal|Spider
 funny bone,s,Narrenbein,n,e,Narr|Bein,,,Anatomy
+garage,s,Garage,f,n,,,,House|Building|Structure
 garbage disposal,s,Müllabfuhr,f,en,Müll|Abfuhr,,,Home|Kitchen
 garlic press,es,Knoblauchpresse,f,n,Knoblauch|Presse,,,Home|Kitchen
 garter snake,s,Strumpfbandnatter,f,n,Strumpf|Band|Natter,,,Animal|Reptile|Snake
@@ -379,6 +389,8 @@ lemming,s,Lemming,m,e,,,,Animal|Mammal
 lemur,s,Lemur,m,s,,,,Animal|Mammal
 lemur,s,Maki,m,s,,,,Animal|Mammal
 leopard,s,Leopard,m,en,,,,Animal|Mammal
+light,s,Licht,n,er,,,,House|Building|Structure
+light switch,es,Lichtschalter,m,-,Licht|Schalter,,,House|Building|Structure
 lion,s,Löwe,m,n,,,,Animal|Mammal
 lioness,es,Löwin,f,nen,,,,Animal|Mammal
 lip,s,Lippe,f,n,,,,Anatomy
@@ -499,6 +511,7 @@ platter,s,Servierplatte,f,n,servieren|Platte,,,Home|Kitchen
 platypus,es,Schnabeltier,n,e,Schnabel|Tier,,,Animal|Mammal
 plover,s,Regenpfeifer,m,-,Regen|Pfeifer,,,Animal|Bird
 polar bear,s,Eisbär,m,en,Eis|Bär,,,Animal|Mammal
+porch,es,Veranda,m,Veranden,,,,House|Building|Structure
 porcupine,s,Stachelschwein,n,e,Stachel|Schwein,,,Animal|Mammal
 porpoise,s,Schweinswal,m,e,Schwein|Wal,,,Animal|Mammal
 pot,s,Topf,m,ö-e,,,,Home|Kitchen
@@ -532,6 +545,7 @@ ribcage,s,Brustkorb,m,ö-e,Brust|Korb,,,Anatomy
 ring,s,Ring,m,e,,,,Jewelry
 robin,s,Rotkehlchen,n,-,rot|Kelch,,,Animal|Bird
 rolling pin,s,Teigrolle,f,n,Teig|Rolle,,,Home|Kitchen
+roof,s,Dach,n,ä-er,,,,House|Building|Structure
 rowing,sing,Rudern,n,sing,,,,Sport|Fitness|Health
 rubber glove,s,Gummihandschuh,m,e,Gummi|Hand|Schuh,,,Medicine|Health|Clothing
 running crab spider,s,Laufspinne,f,n,laufen|Spinne,,,Animal|Spider
@@ -602,10 +616,13 @@ sponge,s,Schwamm,m,ä-e,,,,Home|Kitchen
 spoon,s,Löffel,m,-,,,,Home|Kitchen
 squad,s,Mannschaft,f,en,,,,Sport
 squirrel,s,Eichhörnchen,n,-,,,,Animal|Mammal
+staircase,s,Treppe,f,n,,,,House|Building|Structure
+staircase,s,Treppenhaus,n,ä-er,Treppe|Haus,,,House|Building|Structure
 standard deviations,s,Normalabweichung,f,en,Normal|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
 standard deviations,s,Standardabweichung ,f,en,Standard|Abweichung,,,Medicine|Psychology|Math|Statistics|Science
 starling,s,Star,m,e,,,,Animal|Bird
 stent,s,Stent,m,s,,,,Medicine|Health
+step,s,Stufe,f,n,,,,House|Building|Structure
 sternum,s,Brustbein,n,e,Brust|Bein,,,Anatomy
 stethoscope,s,Stethoskop,n,e,,,,Medicine|Health
 stink bug,s,Stinkwanze,f,n,Stink|Wanze ,,,Animal|Insect
@@ -689,17 +706,20 @@ vulture,s,Geier,m,-,,,,Animal|Bird
 vulture,s,Aasgeier,m,-,Aas|Geier,,,Animal|Bird
 waist,s,Taille,f,n,,,,Anatomy
 waiting room,s,Wartezimmer,n,-,warten|Zimmer,,,Medicine|Health
+wall,s,Wand,f,ä-e,,,,House|Building|Structure
 wallaby,wallabies,Wallaby,n,s,,,,Animal|Mammal
 walrus,es,Walross,m,ö-er,,,,Animal|Mammal
 warbler,s,Waldsänger,m,-,Wald|Sänger,,,Animal|Bird
 wart,s,Warze,f,n,,,,Medicine|Health|Disease
 warthog,s,Warzenschwein,n,e,Warze|Schwein,,,Animal|Mammal
 wasp,s,Wespe,f,n,,,,Animal|Insect
+water heater,s,Wasserheizer,m,-,Wasser|Heizen,,,House|Building|Structure
 weasel,s,Wiesel,n,-,,,,Animal|Mammal
 weevil,s,Rüsselkäfer,m,-,Rüssel|Käfer,,,Animal|Insect
 whale,s,Wal,m,e,,,,Animal|Mammal
 wheelchair,s,Rollstuhl,m,ü-e,rollen|Stuhl,,,Medicine|Health|Equipment
 whisk,s,Schaumschläger,m,-,Schaum|Schläger,,,Home|Kitchen
+window,s,Fenster,n,-,,,,House|Building|Structure
 wingback chair,s,Ohrensessel,m,-,Ohr|Sessel,,,Home|Furniture
 wok,s,Wok,m,s,,,,Home|Kitchen
 wolf,wolves,Wolf,m,ö-e,,,,Animal|Mammal
@@ -716,5 +736,6 @@ wristwatch,es,Armbanduhr,f,en,Arm|Band|Uhr,,,Jewelry|Accessory
 X-ray,s,Röntgen,n,sing,,,,Medicine|Health
 X-ray,s,Röntgenbild,n,er,Röntgen|Bild,,,Medicine|Health
 yak,s,Yak,m,s,,,,Animal|Mammal
+yard,s,Yard,f,s,,,,House|Building|Structure
 yoga mat,s,Yogamatte,f,n,Yoga|Matte,,,Health|Fitness|Gym
 zebra,s,Zebra,n,s,,,,Animal|Mammal
